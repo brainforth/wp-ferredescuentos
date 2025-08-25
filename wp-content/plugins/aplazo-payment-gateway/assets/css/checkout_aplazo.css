@@ -1,0 +1,7 @@
+#payment .payment_methods li.payment_method_aplazo img {
+    height: 26px;
+    width: 100px;
+    position: relative;
+    top: -4px;
+    border-radius: 25px;
+}

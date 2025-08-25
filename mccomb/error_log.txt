@@ -1,0 +1,3 @@
+[31-Jan-2025 07:35:42 America/Los_Angeles] Error al enviar el correo: SMTP Error: Could not authenticate.
+[31-Jan-2025 07:52:13 America/Los_Angeles] Error en la base de datos: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'j.yearim@bucopublicidad.com' for key 'chimps.correo'
+[31-Jan-2025 10:07:40 America/Mexico_City] Este usuario ya ha sido registrado.

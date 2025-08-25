@@ -1,0 +1,35 @@
+#progress-bar {
+    width: 100%;
+    height: 30px;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    overflow: hidden;
+}
+
+#progress-fill {
+    height: 100%;
+    background-color: #4CAF50;
+    width: 0%;
+    transition: width 0.3s;
+}
+
+#log-container {
+    margin-top: 30px;
+}
+
+#log-output {
+    background: #1d2327;
+    color: #fff;
+    padding: 15px;
+    height: 300px;
+    overflow-y: auto;
+    border-radius: 5px;
+    font-family: monospace;
+    white-space: pre-wrap;
+}
+
+#current-sku {
+    margin-top: 10px;
+    font-weight: bold;
+}

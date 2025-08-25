@@ -1,0 +1,1 @@
+($=>{"use strict";window.addEventListener("load",(()=>{$(".form-submit").wrapInner("<span class='form-submit-wrapper'></span>"),$(".shop_table.cart .actions input[type=submit], .shop_table.cart .actions .input-text").wrap("<span class='form-submit-wrapper'></span>")}),{once:!0,passive:!0})})(jQuery);

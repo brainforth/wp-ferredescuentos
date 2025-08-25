@@ -1,0 +1,4345 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Social Reviews\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-07-14 11:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.2\n"
+"X-Domain: wp-social-reviews"
+
+#. Please retain the placeholders (%s, %d, etc.) and ensure they are correctly used in context.
+#: app/Services/Platforms/Feeds/Instagram/InstagramFeed.php:289
+#, php-format
+msgid " API error: %s"
+msgstr ""
+
+#: app/Services/Platforms/PlatformManager.php:48
+msgid " Feed"
+msgstr ""
+
+#: app/Services/Platforms/PlatformErrorManager.php:404
+msgid ""
+" is currently experiencing an error that may prevent your feeds from "
+"updating. This issue is likely caused by the following reasons:"
+msgstr ""
+
+#: app/Http/Controllers/NotificationsController.php:65
+msgid " Notification Popup"
+msgstr ""
+
+#: app/Views/public/feeds-templates/twitter/elements/retweeted-status.php:15
+msgid " Retweeted"
+msgstr ""
+
+#: app/Services/Platforms/PlatformManager.php:48
+msgid " Reviews"
+msgstr ""
+
+#: app/Models/Post.php:181 app/Http/Controllers/TemplatesController.php:89
+msgid " Template"
+msgstr ""
+
+#. Please retain the placeholders (%s, %d, etc.) and ensure they are correctly used in context.
+#: app/Services/Platforms/PlatformErrorManager.php:275
+#, php-format
+msgid "%1$s account(%2$s) data has been removed:"
+msgstr ""
+
+#. Please retain the placeholders (%s, %d, etc.) and ensure they are correctly used in context.
+#: app/Services/Platforms/PlatformData.php:606
+#, php-format
+msgid "%1$s Report for %2$s"
+msgstr ""
+
+#. Please retain the placeholders (%s, %d, etc.) and ensure they are correctly used in context.
+#: app/Services/Platforms/Reviews/Helper.php:53
+#, php-format
+msgid "%1$s reviews fetched successfully from %2$s!!"
+msgstr ""
+
+#. Please retain the placeholders (%s, %d, etc.) and ensure they are correctly used in context.
+#: app/Services/Platforms/Reviews/Helper.php:56
+#, php-format
+msgid "%s reviews fetched successfully!!"
+msgstr ""
+
+#. Please retain the placeholders (%s, %d, etc.) and ensure they are correctly used in context.
+#: app/Views/email/report/body.php:190
+#, php-format
+msgid "%sLog in and disable these emails%s"
+msgstr ""
+
+#. Please retain the placeholders (%s, %d, etc.) and ensure they are correctly used in context.
+#: app/Services/Platforms/PlatformErrorManager.php:398
+#, php-format
+msgid "(%1$s account data will delete in %2$s)"
+msgstr ""
+
+#: app/Hooks/actions.php:159
+msgid "-- Select a template --"
+msgstr ""
+
+#: app/Hooks/filters.php:57
+msgid "1 Month"
+msgstr ""
+
+#: app/Hooks/filters.php:64
+msgid "1 Year"
+msgstr ""
+
+#: app/Hooks/filters.php:22
+msgid "5 min"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:565
+msgid "9+ templates"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/GoogleMyBusiness.php:432
+msgid "Access code should not be empty!"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/GoogleMyBusiness.php:653
+msgid "Access token is invalid! Please reauthorize your account."
+msgstr ""
+
+#. Please retain the placeholders (%s, %d, etc.) and ensure they are correctly used in context.
+#: app/Services/Platforms/PlatformErrorManager.php:214
+#, php-format
+msgid ""
+"Account(%1$s): Error: Connected account for the user %2$s does not have "
+"permission to use this feed type."
+msgstr ""
+
+#. Please retain the placeholders (%s, %d, etc.) and ensure they are correctly used in context.
+#: app/Services/Platforms/PlatformErrorManager.php:235
+#, php-format
+msgid "Account(%1$s): There has been a problem with your account(%1$s) %2$s."
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Twitter/Config.php:273
+msgid "Action"
+msgstr ""
+
+#: app/Services/Platforms/PlatformErrorManager.php:262
+#: app/Services/Platforms/PlatformData.php:517
+#: app/Services/Platforms/PlatformData.php:541
+msgid "Action Required Within 7 Days"
+msgstr ""
+
+#. Please retain the placeholders (%s, %d, etc.) and ensure they are correctly used in context.
+#: app/Services/Platforms/PlatformErrorManager.php:410
+#, php-format
+msgid "Action required within 7 days %s"
+msgstr ""
+
+#: app/Services/Widgets/TwitterWidget.php:708
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:401
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:277
+msgid "Actions"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:431
+msgid ""
+"Add Tripadvisor reviews any where on your website to improve your brand’s "
+"social media marketing."
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1023
+msgid "Afghanistan"
+msgstr ""
+
+#: app/Http/Controllers/Platforms/Reviews/MetaController.php:131
+msgid ""
+"AI summary cannot be enabled because the model is not selected or the API "
+"key is missing."
+msgstr ""
+
+#: app/Http/Controllers/Platforms/Reviews/MetaController.php:127
+msgid "AI summary enabled."
+msgstr ""
+
+#: app/Services/TranslationString.php:44
+#: app/Hooks/Handlers/ShortcodeHandler.php:1076
+msgid "AI-Generated Summary"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:365
+#: app/Services/Platforms/Reviews/Airbnb.php:158
+msgid "Airbnb"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:381
+msgid "Airbnb Reviews"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:580
+msgid "Ajax Load More Pagination"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1027
+msgid "Aland Islands"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1029
+msgid "Albania"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Facebook/Config.php:324
+msgid "Album Breadcrumb"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Facebook/Config.php:304
+msgid "Album Meta"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Facebook/Config.php:197
+msgid "Album Title"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1030
+msgid "Algeria"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:464
+msgid "AliExpress"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:478
+msgid "AliExpress Reviews"
+msgstr ""
+
+#: app/Services/Widgets/YoutubeWidget.php:344
+#: app/Services/Widgets/YoutubeWidget.php:544
+#: app/Services/Widgets/ReviewsWidget.php:224
+#: app/Services/Widgets/ReviewsWidget.php:314
+#: app/Services/Widgets/ReviewsWidget.php:404
+#: app/Services/Widgets/ReviewsWidget.php:494
+msgid "Alignment"
+msgstr ""
+
+#. Please retain the placeholders (%s, %d, etc.) and ensure they are correctly used in context.
+#: app/Services/Platforms/PlatformData.php:567
+#, php-format
+msgid "All %s Data has been Removed"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:440
+msgid "Amazon"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:454
+msgid "Amazon Reviews"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1033
+msgid "American Samoa"
+msgstr ""
+
+#. Please retain the placeholders (%s, %d, etc.) and ensure they are correctly used in context.
+#: app/Services/Platforms/PlatformData.php:613
+#, php-format
+msgid ""
+"An %1$s on your website is currently unable to connect to the %2$s API to "
+"retrieve new posts. Rest assured, your feed is still visible using a cached "
+"version, but it cannot display the latest posts."
+msgstr ""
+
+#. Please retain the placeholders (%s, %d, etc.) and ensure they are correctly used in context.
+#: app/Services/Platforms/PlatformErrorManager.php:412
+#, php-format
+msgid ""
+"An account (\"%1$s\") admin has deauthorized the WP Social Ninja app used to "
+"power the WP Social Ninja plugin. If the %2$s source is not reconnected "
+"within 7 days then all %2$s data will be automatically deleted on your "
+"website for this account (ID: %3$s) due to %4$s data privacy rules. To "
+"prevent the automated data deletion for the source, please reconnect your "
+"account within 7 days."
+msgstr ""
+
+#. Please retain the placeholders (%s, %d, etc.) and ensure they are correctly used in context.
+#: app/Services/Platforms/PlatformData.php:569
+#, php-format
+msgid ""
+"An account admin has deauthorized the WP Social Ninja %s App used to power "
+"the WP Social Ninja plugin."
+msgstr ""
+
+#. Please retain the placeholders (%s, %d, etc.) and ensure they are correctly used in context.
+#: app/Services/Platforms/PlatformData.php:548
+#, php-format
+msgid ""
+"An account admin has deauthorized the WP Social Ninja app used to power the "
+"WP Social Ninja plugin on %1$s. If the %2$s source is not reconnected within "
+"7 days then all %2$s data will be automatically deleted on your website due "
+"to %3$s data privacy rules."
+msgstr ""
+
+#. Please retain the placeholders (%s, %d, etc.) and ensure they are correctly used in context.
+#: app/Services/Platforms/PlatformData.php:195
+#, php-format
+msgid ""
+"An account admin has deauthorized the WP Social Ninja app used to power the "
+"WP Social Ninja plugin. The account was not reconnected within the 7-day "
+"limit, and all %1$s account data was automatically deleted on your website "
+"due to %2$s data privacy rules."
+msgstr ""
+
+#: app/Services/Platforms/PlatformErrorManager.php:240
+msgid "An unknown error has occurred."
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1035
+msgid "Andorra"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1036
+msgid "Angola"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1037
+msgid "Anguilla"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1038
+msgid "Antarctica"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1041
+msgid "Antigua and Barbuda"
+msgstr ""
+
+#. Please retain the placeholders (%s, %d, etc.) and ensure they are correctly used in context.
+#: app/Services/Platforms/PlatformErrorManager.php:208
+#: app/Services/Platforms/PlatformErrorManager.php:222
+#: app/Services/Platforms/PlatformErrorManager.php:227
+#: app/Services/Platforms/PlatformErrorManager.php:237
+#, php-format
+msgid "API error %s:"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1043
+msgid "Argentina"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1044
+msgid "Armenia"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1045
+msgid "Aruba"
+msgstr ""
+
+#: app/Services/Platforms/PlatformErrorManager.php:184
+msgid "As a result, your feed won't be able to update at the moment."
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1046
+msgid "Australia"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1047
+msgid "Austria"
+msgstr ""
+
+#: app/Services/Widgets/FacebookFeedWidget.php:285
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:201
+#: app/Services/Platforms/Feeds/Twitter/Config.php:171
+#: app/Services/Platforms/Feeds/Facebook/Config.php:108
+msgid "Author"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Config.php:149
+msgid "Author Position"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:574
+msgid "Automatically syncing reviews"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1048
+msgid "Azerbaijan"
+msgstr ""
+
+#: app/Services/Widgets/YoutubeWidget.php:656
+#: app/Services/Widgets/YoutubeWidget.php:732
+#: app/Services/Widgets/InstagramWidget.php:555
+#: app/Services/Widgets/InstagramWidget.php:644
+#: app/Services/Widgets/FacebookFeedWidget.php:120
+#: app/Services/Widgets/FacebookFeedWidget.php:785
+#: app/Services/Widgets/TwitterWidget.php:845
+#: app/Services/Widgets/TwitterWidget.php:934
+#: app/Services/Widgets/ReviewsWidget.php:710
+#: app/Services/Widgets/ReviewsWidget.php:788
+msgid "Background"
+msgstr ""
+
+#: app/Services/Widgets/YoutubeWidget.php:276
+#: app/Services/Widgets/InstagramWidget.php:306
+#: app/Services/Widgets/FacebookFeedWidget.php:220
+#: app/Services/Widgets/FacebookFeedWidget.php:705
+#: app/Services/Widgets/TwitterWidget.php:434
+#: app/Services/Widgets/ReviewsWidget.php:156
+#: app/Services/Widgets/ReviewsWidget.php:642
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:228
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:261
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:358
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:402
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:278
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:310
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:450
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:494
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:51
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:65
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:164
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:186
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:230
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:179
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:212
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:292
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:336
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:153
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:428
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:464
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:508
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:326
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:237
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:241
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:278
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:327
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:371
+msgid "Background Color"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Config.php:91
+#: app/Services/Platforms/Reviews/Config.php:107
+#: app/Services/Platforms/Reviews/Config.php:306
+#: app/Services/Platforms/Reviews/Config.php:378
+#: app/Services/Platforms/Reviews/Config.php:466
+#: app/Services/Platforms/Reviews/Config.php:495
+#: app/Services/Platforms/Reviews/Config.php:514
+#: app/Services/Platforms/Feeds/Twitter/Config.php:139
+#: app/Services/Platforms/Feeds/Twitter/Config.php:155
+#: app/Services/Platforms/Feeds/Twitter/Config.php:328
+#: app/Services/Platforms/Feeds/Instagram/Config.php:144
+#: app/Services/Platforms/Feeds/Instagram/Config.php:321
+#: app/Services/Platforms/Feeds/Instagram/Config.php:351
+#: app/Services/Platforms/Feeds/Instagram/Config.php:370
+#: app/Services/Platforms/Feeds/Youtube/Config.php:104
+#: app/Services/Platforms/Feeds/Youtube/Config.php:120
+#: app/Services/Platforms/Feeds/Youtube/Config.php:218
+#: app/Services/Platforms/Feeds/Youtube/Config.php:237
+#: app/Services/Platforms/Feeds/Facebook/Config.php:91
+#: app/Services/Platforms/Feeds/Facebook/Config.php:513
+#: app/Services/Platforms/Feeds/Facebook/Config.php:543
+#: app/Services/Platforms/Feeds/Facebook/Config.php:562
+msgid "Background Color:"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:336
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:247
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:251
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:288
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:381
+msgid "Background Hover Color"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Config.php:315
+msgid "Badge"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1049
+msgid "Bahamas"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1050
+msgid "Bahrain"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1051
+msgid "Bangladesh"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1052
+msgid "Barbados"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Helper.php:190
+msgid "Based on {total_reviews} Reviews"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1053
+msgid "Belarus"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1055
+msgid "Belau"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1054
+msgid "Belgium"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1056
+msgid "Belize"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1057
+msgid "Benin"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1058
+msgid "Bermuda"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1059
+msgid "Bhutan"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1060
+msgid "Bolivia"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1063
+msgid "Bonaire, Saint Eustatius and Saba"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:488
+msgid "Booking.com"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:502
+msgid "Booking.com Reviews"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:244
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:285
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:379
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:383
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:423
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:427
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:293
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:331
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:471
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:475
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:515
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:519
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:94
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:98
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:207
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:211
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:251
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:255
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:195
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:236
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:313
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:317
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:357
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:361
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:177
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:485
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:489
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:529
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:533
+msgid "Border"
+msgstr ""
+
+#: app/Services/Widgets/YoutubeWidget.php:309
+#: app/Services/Widgets/YoutubeWidget.php:698
+#: app/Services/Widgets/YoutubeWidget.php:774
+#: app/Services/Widgets/InstagramWidget.php:339
+#: app/Services/Widgets/InstagramWidget.php:597
+#: app/Services/Widgets/InstagramWidget.php:686
+#: app/Services/Widgets/FacebookFeedWidget.php:162
+#: app/Services/Widgets/FacebookFeedWidget.php:738
+#: app/Services/Widgets/FacebookFeedWidget.php:827
+#: app/Services/Widgets/TwitterWidget.php:467
+#: app/Services/Widgets/TwitterWidget.php:887
+#: app/Services/Widgets/TwitterWidget.php:976
+#: app/Services/Widgets/ReviewsWidget.php:189
+#: app/Services/Widgets/ReviewsWidget.php:752
+#: app/Services/Widgets/ReviewsWidget.php:830
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:250
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:292
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:390
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:434
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:299
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:337
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:482
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:526
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:105
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:218
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:262
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:201
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:243
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:324
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:368
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:184
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:496
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:540
+msgid "Border Radius"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1068
+msgid "Bosnia and Herzegovina"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1070
+msgid "Botswana"
+msgstr ""
+
+#: app/Services/Widgets/YoutubeWidget.php:126
+#: app/Services/Widgets/InstagramWidget.php:127
+#: app/Services/Widgets/FacebookFeedWidget.php:479
+#: app/Services/Widgets/FacebookFeedWidget.php:519
+#: app/Services/Widgets/FacebookFeedWidget.php:600
+#: app/Services/Widgets/FacebookFeedWidget.php:648
+#: app/Services/Widgets/TwitterWidget.php:128
+#: app/Services/Widgets/TwitterWidget.php:177
+#: app/Services/Widgets/TwitterWidget.php:238
+#: app/Services/Widgets/TwitterWidget.php:286
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:77
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:126
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:163
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:77
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:114
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:156
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:193
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:77
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:114
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:77
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:226
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:260
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:294
+#: app/Services/Platforms/Feeds/Instagram/Config.php:36
+#: app/Services/Platforms/Feeds/Facebook/Config.php:36
+#: app/Services/Platforms/Feeds/Facebook/Config.php:55
+#: app/Services/Platforms/Feeds/Facebook/Config.php:439
+#: app/Services/Platforms/Feeds/Facebook/Config.php:461
+msgid "Bottom Spacing"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1073
+msgid "Bouvet Island"
+msgstr ""
+
+#: app/Services/Widgets/YoutubeWidget.php:267
+#: app/Services/Widgets/InstagramWidget.php:297
+#: app/Services/Widgets/FacebookFeedWidget.php:696
+#: app/Services/Widgets/TwitterWidget.php:425
+#: app/Services/Platforms/Reviews/Config.php:99
+#: app/Services/Platforms/Reviews/Config.php:370
+#: app/Services/Platforms/Reviews/Config.php:458
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:257
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:306
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:208
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:149
+#: app/Services/Platforms/Feeds/Twitter/Config.php:147
+#: app/Services/Platforms/Feeds/Instagram/Config.php:136
+#: app/Services/Platforms/Feeds/Youtube/Config.php:112
+#: app/Services/Platforms/Feeds/Facebook/Config.php:83
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:356
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:267
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:271
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:308
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:401
+msgid "Box"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:360
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:271
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:275
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:312
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:405
+msgid "Box Background Color"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1075
+msgid "Brazil"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1078
+msgid "British Indian Ocean Territory"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1082
+msgid "British Virgin Islands"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1084
+msgid "Brunei"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1085
+msgid "Bulgaria"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1088
+msgid "Burkina Faso"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1090
+msgid "Burundi"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:47
+msgid "Business Info/Header"
+msgstr ""
+
+#: app/Services/Widgets/YoutubeWidget.php:246
+#: app/Services/Widgets/InstagramWidget.php:276
+#: app/Services/Widgets/TwitterWidget.php:404
+#: app/Services/Widgets/ReviewsWidget.php:143
+msgid "Button Background Color"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Instagram/Config.php:128
+msgid "Button Background Color:"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Twitter/TwitterFeed.php:551
+#: app/Services/Platforms/Feeds/Instagram/InstagramFeed.php:924
+#: app/Services/Platforms/Feeds/Youtube/YoutubeFeed.php:1032
+#: app/Services/Platforms/Feeds/Facebook/FacebookFeed.php:1005
+msgid "Cache cleared successfully!"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Instagram/Config.php:307
+msgid "Call to action"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:578
+msgid "Call to Action button"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1091
+msgid "Cambodia"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1092
+msgid "Cameroon"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/AirbnbHelper.php:32
+#: app/Services/Platforms/Reviews/AirbnbHelper.php:49
+#: app/Services/Platforms/Reviews/AirbnbHelper.php:83
+msgid "Can't fetch reviews due to slow network, please try again"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Youtube/YoutubeFeed.php:711
+msgid "Can't find any videos to the channel!!"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1093
+msgid "Canada"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1094
+msgid "Cape Verde"
+msgstr ""
+
+#: app/Http/Controllers/SettingsController.php:64
+msgid "Card Data Deleted Successfully!"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1097
+msgid "Cayman Islands"
+msgstr ""
+
+#: app/Services/Widgets/YoutubeWidget.php:352
+#: app/Services/Widgets/YoutubeWidget.php:552
+#: app/Services/Widgets/ReviewsWidget.php:232
+#: app/Services/Widgets/ReviewsWidget.php:322
+#: app/Services/Widgets/ReviewsWidget.php:412
+#: app/Services/Widgets/ReviewsWidget.php:502
+msgid "Center"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1101
+msgid "Central African Republic"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1103
+msgid "Chad"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Youtube/YoutubeFeed.php:739
+msgid ""
+"Channel identifier cannot be empty. Please enter a valid Channel ID, "
+"Username, or Handle"
+msgstr ""
+
+#: app/Services/Widgets/YoutubeWidget.php:97
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:52
+#: app/Services/Platforms/Feeds/Youtube/Config.php:29
+msgid "Channel Name"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:85
+msgid "Channel Name Color"
+msgstr ""
+
+#: app/Http/Controllers/WidgetsController.php:50
+msgid "Chat Widget"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:110
+msgid "Chat Widgets"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1104
+msgid "Chile"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1105
+msgid "China"
+msgstr ""
+
+#: app/Services/Platforms/Chats/Config.php:114
+msgid "Chris Morphe"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1108
+msgid "Christmas Island"
+msgstr ""
+
+#: app/Http/Controllers/Platforms/Reviews/ConfigsController.php:113
+msgid "Clear Configurations"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Config.php:394
+msgid "Close Icon"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1112
+msgid "Cocos (Keeling) Islands"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1114
+msgid "Colombia"
+msgstr ""
+
+#: app/Services/Widgets/YoutubeWidget.php:370
+#: app/Services/Widgets/YoutubeWidget.php:460
+#: app/Services/Widgets/YoutubeWidget.php:570
+#: app/Services/Widgets/FacebookFeedWidget.php:579
+#: app/Services/Widgets/FacebookFeedWidget.php:627
+#: app/Services/Widgets/FacebookFeedWidget.php:675
+#: app/Services/Widgets/TwitterWidget.php:107
+#: app/Services/Widgets/TwitterWidget.php:155
+#: app/Services/Widgets/TwitterWidget.php:265
+#: app/Services/Widgets/TwitterWidget.php:361
+#: app/Services/Widgets/TwitterWidget.php:499
+#: app/Services/Widgets/TwitterWidget.php:542
+#: app/Services/Widgets/ReviewsWidget.php:250
+#: app/Services/Widgets/ReviewsWidget.php:340
+#: app/Services/Widgets/ReviewsWidget.php:430
+#: app/Services/Widgets/ReviewsWidget.php:520
+#: app/Services/Widgets/ReviewsWidget.php:584
+#: app/Services/Widgets/ReviewsWidget.php:630
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:56
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:142
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:179
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:219
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:56
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:93
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:130
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:172
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:269
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:56
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:130
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:170
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:56
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:93
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:205
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:239
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:273
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:419
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:213
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:306
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:217
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:221
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:137
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:161
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:185
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:234
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:258
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:194
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:228
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:351
+msgid "Color"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:567
+msgid "Combine multiple platform"
+msgstr ""
+
+#: app/Services/TranslationString.php:34
+#: app/Hooks/Handlers/ShortcodeHandler.php:576
+msgid "Comments"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1115
+msgid "Comoros"
+msgstr ""
+
+#: app/Services/Platforms/PlatformData.php:537
+#: app/Services/Platforms/PlatformData.php:564
+msgid "Configuration Modal"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:566
+msgid "Connect multiple businesses"
+msgstr ""
+
+#: app/Services/Platforms/Chats/Config.php:81
+#: app/Views/public/chat-templates/elements/fluent-form.php:8
+msgid "Contact Us"
+msgstr ""
+
+#: app/Services/Widgets/InstagramWidget.php:366
+#: app/Services/Widgets/FacebookFeedWidget.php:277
+#: app/Services/Widgets/TwitterWidget.php:632
+#: app/Services/Widgets/ReviewsWidget.php:486
+#: app/Services/Platforms/Reviews/Config.php:237
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:300
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:379
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:192
+#: app/Services/Platforms/Feeds/Twitter/Config.php:233
+#: app/Services/Platforms/Feeds/Instagram/Config.php:153
+#: app/Services/Platforms/Feeds/Facebook/Config.php:100
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:243
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:155
+msgid "Content"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1126
+msgid "Cook Islands"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1128
+msgid "Costa Rica"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:193
+msgid "Count Color"
+msgstr ""
+
+#: app/Services/Widgets/Helper.php:30
+msgid "Create a template first"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1129
+msgid "Croatia"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1130
+msgid "Cuba"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1133
+msgid "Cura&ccedil;ao"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/ReviewsTrait.php:18
+#: app/Services/Platforms/Reviews/Helper.php:290
+#: app/Http/Controllers/Platforms/Reviews/RecommendationsController.php:48
+msgid "Custom"
+msgstr ""
+
+#: app/Http/Controllers/Platforms/AddonController.php:30
+msgid "Custom Feed for TikTok Plugin activated successfully"
+msgstr ""
+
+#: app/Http/Controllers/SettingsController.php:255
+msgid "Custom URL cannot be empty."
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1135
+msgid "Cyprus"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1138
+msgid "Czech Republic"
+msgstr ""
+
+#: app/Services/Platforms/Chats/Config.php:98
+msgid "Dany Williams"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:235
+#: app/Services/Platforms/Feeds/Twitter/Config.php:207
+msgid "Date"
+msgstr ""
+
+#: app/Services/Widgets/FacebookFeedWidget.php:322
+msgid "Date Color"
+msgstr ""
+
+#: app/Http/Controllers/ShoppablesController.php:85
+msgid "Deleted Successfully."
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1122
+msgid "Democratic Republic of the Congo (Kinshasa)"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1140
+msgid "Denmark"
+msgstr ""
+
+#: app/Services/Widgets/YoutubeWidget.php:194
+#: app/Services/Widgets/YoutubeWidget.php:536
+#: app/Services/Widgets/InstagramWidget.php:224
+#: app/Services/Widgets/FacebookFeedWidget.php:619
+#: app/Services/Widgets/TwitterWidget.php:196
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:175
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:126
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:126
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:275
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:89
+#: app/Services/Platforms/Feeds/Twitter/Config.php:61
+#: app/Services/Platforms/Feeds/Instagram/Config.php:98
+#: app/Services/Platforms/Feeds/Youtube/Config.php:74
+#: app/Services/Platforms/Feeds/Youtube/Config.php:174
+#: app/Services/Platforms/Feeds/Facebook/Config.php:48
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:193
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:181
+msgid "Description"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:392
+msgid "Description Bottom Spacing"
+msgstr ""
+
+#: app/Services/Widgets/FacebookFeedWidget.php:538
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:371
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:105
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:115
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:105
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:94
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:302
+msgid "Description Color"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Facebook/Config.php:484
+msgid "Description Color:"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:376
+msgid "Description Font Size"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:382
+msgid "Description Font Weight"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:387
+msgid "Description Line Height"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:123
+msgid "Description Typography"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:382
+msgid ""
+"Display Airbnb reviews & engage with your customers post purchasing to hook "
+"your site visitors instantly."
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:407
+msgid ""
+"Display Yelp reviews on your website & take on board your potential "
+"customers to kickstart your business."
+msgstr ""
+
+#: app/Services/SidebarWidgets.php:24
+msgid "Display your feed in a widget"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Display your social feeds, reviews and chat widgets automatically and easily "
+"on your website with the all-in-one social media plugin."
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1141
+msgid "Djibouti"
+msgstr ""
+
+#: app/Hooks/filters.php:150
+msgid "Docs"
+msgstr ""
+
+#: app/Services/TranslationString.php:29
+msgid "Does not recommend"
+msgstr ""
+
+#: app/Views/public/reviews-templates/elements/reviewer-rating.php:44
+msgid "doesn't recommend"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:328
+msgid "Domain Bottom Spacing"
+msgstr ""
+
+#: app/Services/Widgets/FacebookFeedWidget.php:458
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:307
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:282
+msgid "Domain Color"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Facebook/Config.php:443
+msgid "Domain Color:"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:312
+msgid "Domain Font Size"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:318
+msgid "Domain Font Weight"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:323
+msgid "Domain Line Height"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1142
+msgid "Dominica"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1145
+msgid "Dominican Republic"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1147
+msgid "Ecuador"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1148
+msgid "Egypt"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1151
+msgid "El Salvador"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1155
+msgid "Equatorial Guinea"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1157
+msgid "Eritrea"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Airbnb.php:207
+msgid "Error 1: No key found."
+msgstr ""
+
+#. Please retain the placeholders (%s, %d, etc.) and ensure they are correctly used in context.
+#: app/Services/Platforms/PlatformErrorManager.php:186
+#, php-format
+msgid "Error connecting to %s:"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Instagram/InstagramFeed.php:284
+msgid "Error connecting to instagram"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Airbnb.php:193
+msgid "Error finding key. Please try again."
+msgstr ""
+
+#. Please retain the placeholders (%s, %d, etc.) and ensure they are correctly used in context.
+#: app/Services/Platforms/PlatformErrorManager.php:408
+#, php-format
+msgid "Error in Account %s:"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Youtube/YoutubeFeed.php:382
+msgid "Error in API key settings,Please check your API key is valid or not."
+msgstr ""
+
+#. Please retain the placeholders (%s, %d, etc.) and ensure they are correctly used in context.
+#: app/Services/Platforms/PlatformErrorManager.php:206
+msgid "Error: Access Token is not valid or has expired."
+msgstr ""
+
+#: app/Services/Platforms/PlatformErrorManager.php:218
+msgid "Error: Cannot retrieve posts for this hashtag."
+msgstr ""
+
+#: app/Services/Platforms/PlatformErrorManager.php:210
+msgid "Error: Hashtag limit of 30 unique hashtags per week has been reached."
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Airbnb.php:237
+msgid "Error: Something went wrong. Please try again"
+msgstr ""
+
+#. Please retain the placeholders (%s, %d, etc.) and ensure they are correctly used in context.
+#: app/Services/Platforms/Feeds/Instagram/InstagramFeed.php:619
+#, php-format
+msgid "Error: There is no connected account for the user %s."
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1158
+msgid "Estonia"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1159
+msgid "Ethiopia"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Facebook/Config.php:168
+msgid "Event Date"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Facebook/Config.php:246
+msgid "Event Location"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Facebook/Config.php:275
+msgid "Event Statistics"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Facebook/Config.php:217
+msgid "Event Title"
+msgstr ""
+
+#: app/Hooks/filters.php:43
+msgid "Every 1 Week"
+msgstr ""
+
+#: app/Hooks/filters.php:29
+msgid "Every 2 Day"
+msgstr ""
+
+#: app/Hooks/filters.php:50
+msgid "Every 2 Week"
+msgstr ""
+
+#: app/Hooks/filters.php:36
+msgid "Every 3 Day"
+msgstr ""
+
+#: app/Services/Helper.php:150 app/Services/Helper.php:178
+msgid "Everywhere"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:573
+msgid "Extensive Style Option"
+msgstr ""
+
+#: app/Services/Platforms/PlatformManager.php:47
+#: app/Hooks/Handlers/AdminMenuHandler.php:512
+msgid "Facebook"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Facebook/FacebookFeed.php:51
+msgid "Facebook Feed"
+msgstr ""
+
+#: app/Models/Post.php:175 app/Http/Controllers/TemplatesController.php:93
+msgid "Facebook Feed Template"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:11
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:20
+msgid "Facebook Feeds"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Facebook/FacebookFeed.php:382
+msgid ""
+"Facebook feeds are not being displayed due to the \"optimize images\" option "
+"being disabled. If the GDPR settings are set to \"Yes,\" it is necessary to "
+"enable the optimize images option."
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:527
+msgid "Facebook Reviews"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1162
+msgid "Falkland Islands"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1166
+msgid "Faroe Islands"
+msgstr ""
+
+#: app/Services/Platforms/PlatformErrorManager.php:206
+msgid "Feed will not update."
+msgstr ""
+
+#: app/Services/Platforms/Chats/Config.php:138
+msgid "Feedback"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/OxygenWidget.php:46
+msgid "Feeds"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:503
+msgid ""
+"Fetch & display your Booking.com reviews to connect with your audiences "
+"without wasting any time."
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:552
+msgid ""
+"Fetch & display your WooCommerce reviews to connect with your audiences "
+"without wasting any time."
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:455
+msgid ""
+"Fetch & exhibit Amazon reviews on your website & reach out to larger "
+"audiences for better brand exposure."
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Youtube/YoutubeFeed.php:135
+msgid "Field should not be empty!"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1168
+msgid "Fiji"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:571
+msgid "Filter by minimum rating"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1169
+msgid "Finland"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Config.php:96
+msgid "Follow"
+msgstr ""
+
+#: app/Services/Widgets/InstagramWidget.php:254
+#: app/Services/Widgets/TwitterWidget.php:382
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:205
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:255
+#: app/Services/Platforms/Feeds/Twitter/Config.php:125
+#: app/Services/Platforms/Feeds/Instagram/Config.php:114
+msgid "Follow Button"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:155
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:144
+msgid "Follow Button Background Color"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:145
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:134
+msgid "Follow Button Text Color"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:165
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:125
+msgid "Follow Button Typography"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Config.php:353
+msgid "Follow on Instagram"
+msgstr ""
+
+#: app/Services/TranslationString.php:21
+msgid "Followers"
+msgstr ""
+
+#: app/Views/public/feeds-templates/facebook/header.php:94
+msgid "followers"
+msgstr ""
+
+#: app/Services/TranslationString.php:20
+msgid "Following"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:61
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:103
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:147
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:184
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:208
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:61
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:98
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:140
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:177
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:219
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:258
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:61
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:98
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:135
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:159
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:61
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:98
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:128
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:210
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:244
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:278
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:407
+msgid "Font Size"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:67
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:109
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:153
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:190
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:67
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:104
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:146
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:183
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:225
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:67
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:104
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:141
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:67
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:104
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:134
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:216
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:250
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:284
+msgid "Font Weight"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1170
+msgid "France"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1173
+msgid "French Guiana"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1177
+msgid "French Polynesia"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1181
+msgid "French Southern Territories"
+msgstr ""
+
+#: app/Services/Platforms/Chats/Config.php:71
+msgid "Friday"
+msgstr ""
+
+#: app/Services/PermissionManager.php:11
+msgid "Full Access"
+msgstr ""
+
+#: app/Services/Widgets/TwitterWidget.php:99
+#: app/Services/Platforms/Feeds/Twitter/Config.php:29
+#: app/Services/Platforms/Feeds/Instagram/Config.php:82
+msgid "Full Name"
+msgstr ""
+
+#: app/Services/Widgets/InstagramWidget.php:194
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:175
+msgid "FullName"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:138
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:52
+msgid "Fullname"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:85
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:105
+msgid "FullName Color"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1183
+msgid "Gabon"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1184
+msgid "Gambia"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:53
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:53
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:53
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:51
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:52
+msgid "General"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1185
+msgid "Georgia"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1186
+msgid "Germany"
+msgstr ""
+
+#: app/Hooks/filters.php:151
+msgid "Get Support"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1187
+msgid "Ghana"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1188
+msgid "Gibraltar"
+msgstr ""
+
+#. Please retain the placeholders (%s, %d, etc.) and ensure they are correctly used in context.
+#: app/Hooks/Handlers/ShortcodeHandler.php:1087
+#, php-format
+msgid "Go to slide %s"
+msgstr ""
+
+#: app/Services/TranslationString.php:42
+msgid "Going"
+msgstr ""
+
+#: app/Hooks/Handlers/ShortcodeHandler.php:1074
+msgid "going"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/GoogleMyBusiness.php:188
+msgid "Google"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:347
+msgid "Google Business Profile"
+msgstr ""
+
+#: app/Models/Post.php:173 app/Http/Controllers/TemplatesController.php:91
+msgid "Google Business Profile Template"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1189
+msgid "Greece"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1190
+msgid "Greenland"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1191
+msgid "Grenada"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:564
+msgid "Grid/Slider/Masonry/Badge layout variation"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1192
+msgid "Guadeloupe"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1193
+msgid "Guam"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1194
+msgid "Guatemala"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1195
+msgid "Guernsey"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1196
+msgid "Guinea"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1199
+msgid "Guinea-Bissau"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1201
+msgid "Guyana"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1202
+msgid "Haiti"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Twitter/Config.php:256
+msgid "Hashtag"
+msgstr ""
+
+#: app/Services/Widgets/InstagramWidget.php:386
+#: app/Services/Widgets/TwitterWidget.php:652
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:305
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:383
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:257
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:169
+msgid "Hashtag Color"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Twitter/Config.php:264
+#: app/Services/Platforms/Feeds/Instagram/Config.php:167
+msgid "Hashtag Color:"
+msgstr ""
+
+#: app/Services/Widgets/YoutubeWidget.php:89
+#: app/Services/Widgets/InstagramWidget.php:90
+#: app/Services/Widgets/FacebookFeedWidget.php:563
+#: app/Services/Widgets/TwitterWidget.php:91
+#: app/Services/Platforms/Reviews/Config.php:22
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:47
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:47
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:47
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:47
+#: app/Services/Platforms/Feeds/Twitter/Config.php:22
+#: app/Services/Platforms/Feeds/Instagram/Config.php:22
+#: app/Services/Platforms/Feeds/Youtube/Config.php:22
+#: app/Services/Platforms/Feeds/Facebook/Config.php:22
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:71
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:71
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:71
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:69
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:70
+msgid "Header"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:75
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:75
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:75
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:73
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:74
+msgid "Header Background Color"
+msgstr ""
+
+#: app/Services/Widgets/ReviewsWidget.php:101
+msgid "Header/Business Info"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1205
+msgid "Heard Island and McDonald Islands"
+msgstr ""
+
+#: app/Services/Platforms/Chats/Config.php:18
+msgid ""
+"Hello 👋 Thanks for your interest in us. Before we begin, may I know your "
+"name?"
+msgstr ""
+
+#: app/Services/Platforms/Chats/Config.php:16
+msgid "Hey there 👋 <br> It’s your friend Dany Williams. How can I help you?"
+msgstr ""
+
+#: app/Services/Platforms/Chats/Config.php:22
+msgid ""
+"Hey! We’ve got a great sale offer running. I am happy to tell you about it. "
+"Let me know if you've any questions."
+msgstr ""
+
+#: app/Services/Platforms/Chats/Config.php:20
+msgid ""
+"Hi there👋 Quick question - How do you like our WP Social Ninja plugin so far?"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1207
+msgid "Honduras"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1208
+msgid "Hong Kong"
+msgstr ""
+
+#: app/Services/Widgets/TwitterWidget.php:510
+#: app/Services/Widgets/TwitterWidget.php:555
+#: app/Services/Widgets/ReviewsWidget.php:596
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:189
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:223
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:316
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:227
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:231
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:268
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:204
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:361
+msgid "Hover Color"
+msgstr ""
+
+#. Please retain the placeholders (%s, %d, etc.) and ensure they are correctly used in context.
+#: app/Services/Platforms/PlatformErrorManager.php:184
+#, php-format
+msgid "HTTP Error: Unable to connect to the %s API."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://wpsocialninja.com/"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1209
+msgid "Hungary"
+msgstr ""
+
+#: app/Services/Platforms/Chats/Config.php:78
+msgid "I will be back soon"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1210
+msgid "Iceland"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Twitter/Config.php:292
+msgid "Icon"
+msgstr ""
+
+#: app/Services/Widgets/InstagramWidget.php:462
+#: app/Services/Widgets/FacebookFeedWidget.php:208
+#: app/Services/Widgets/TwitterWidget.php:728
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:291
+msgid "Icon Color"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Config.php:402
+#: app/Services/Platforms/Feeds/Twitter/Config.php:300
+#: app/Services/Platforms/Feeds/Instagram/Config.php:201
+msgid "Icon Color:"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:444
+msgid "Icon Height"
+msgstr ""
+
+#: app/Services/Widgets/TwitterWidget.php:740
+msgid "Icon Hover Background Color"
+msgstr ""
+
+#: app/Services/Widgets/TwitterWidget.php:752
+msgid "Icon Hover Color"
+msgstr ""
+
+#: app/Services/Widgets/FacebookFeedWidget.php:241
+msgid "Icon Size"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:449
+msgid "Icon Width"
+msgstr ""
+
+#. Please retain the placeholders (%s, %d, etc.) and ensure they are correctly used in context.
+#: app/Hooks/filters.php:78
+#, php-format
+msgid ""
+"If you like the plugin please rate WP Social Ninja %1$s on %2$s to help us "
+"spread the word ♥ from the WP Social Ninja team."
+msgstr ""
+
+#: app/Services/Platforms/PlatformErrorManager.php:211
+msgid ""
+"If you need to display more than 30 hashtag feeds on your site, consider "
+"connecting an additional business account from a separate Instagram Identity "
+"and Facebook page. Connecting an additional Instagram business account from "
+"the same Facebook page will not raise the limit."
+msgstr ""
+
+#: app/Http/Controllers/SettingsController.php:199
+msgid "Images reset successfully!"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:577
+msgid "In-depth header settings"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:572
+msgid "Include/exclude specific reviews"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1211
+msgid "India"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1212
+msgid "Indonesia"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Instagram/InstagramFeed.php:54
+#: app/Views/public/feeds-templates/instagram/elements/icon.php:2
+msgid "Instagram"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:11
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:20
+msgid "Instagram Feeds"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Instagram/InstagramFeed.php:441
+msgid ""
+"Instagram feeds are not being displayed due to the \"optimize images\" "
+"option being disabled. If the GDPR settings are set to \"Yes,\" it is "
+"necessary to enable the optimize images option."
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Instagram/InstagramFeed.php:535
+msgid "Instagram Settings Updated successfully"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Instagram/InstagramFeed.php:325
+msgid "Instagram Successfully Connected!"
+msgstr ""
+
+#: app/Services/TranslationString.php:41
+msgid "Interested"
+msgstr ""
+
+#: app/Hooks/Handlers/ShortcodeHandler.php:1073
+msgid "interested"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Youtube/YoutubeFeed.php:761
+msgid ""
+"Invalid Channel ID format. YouTube Channel IDs start with \"UC\" followed by "
+"22 characters."
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Youtube/YoutubeFeed.php:775
+msgid ""
+"Invalid channel identifier. Please enter a valid Channel ID, Username, or "
+"Handle"
+msgstr ""
+
+#: app/Http/Controllers/SettingsController.php:265
+msgid "Invalid URL format. Please provide a valid URL."
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Youtube/YoutubeFeed.php:749
+msgid ""
+"Invalid YouTube handle format. Handles should be 3-30 characters and contain "
+"only letters, numbers, underscores, and periods."
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1213
+msgid "Iran"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1214
+msgid "Iraq"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1215
+msgid "Ireland"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1218
+msgid "Isle of Man"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1220
+msgid "Israel"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1221
+msgid "Italy"
+msgstr ""
+
+#: app/Services/Widgets/YoutubeWidget.php:723
+#: app/Services/Widgets/InstagramWidget.php:623
+#: app/Services/Widgets/FacebookFeedWidget.php:764
+#: app/Services/Widgets/TwitterWidget.php:913
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:397
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:489
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:331
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:503
+#: app/Services/Platforms/Feeds/Twitter/Config.php:318
+#: app/Services/Platforms/Feeds/Instagram/Config.php:360
+#: app/Services/Platforms/Feeds/Youtube/Config.php:227
+#: app/Services/Platforms/Feeds/Facebook/Config.php:552
+msgid "Item Box"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1224
+msgid "Ivory Coast"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1226
+msgid "Jamaica"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1227
+msgid "Japan"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1228
+msgid "Jersey"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1229
+msgid "Jordan"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Helper.php:229
+msgid "Just left us a {review_rating} star review"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1230
+msgid "Kazakhstan"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1231
+msgid "Kenya"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1232
+msgid "Kiribati"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1233
+msgid "Kosovo"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1234
+msgid "Kuwait"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1235
+msgid "Kyrgyzstan"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Twitter/Config.php:276
+msgid "Label"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1236
+msgid "Laos"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1237
+msgid "Latvia"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1238
+msgid "Lebanon"
+msgstr ""
+
+#: app/Services/Widgets/YoutubeWidget.php:348
+#: app/Services/Widgets/YoutubeWidget.php:548
+#: app/Services/Widgets/ReviewsWidget.php:228
+#: app/Services/Widgets/ReviewsWidget.php:318
+#: app/Services/Widgets/ReviewsWidget.php:408
+#: app/Services/Widgets/ReviewsWidget.php:498
+msgid "Left"
+msgstr ""
+
+#: app/Services/Platforms/Chats/Config.php:146
+msgid "Leo Connor"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1239
+msgid "Lesotho"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1240
+msgid "Liberia"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1241
+msgid "Libya"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1244
+msgid "Liechtenstein"
+msgstr ""
+
+#: app/Services/Widgets/FacebookFeedWidget.php:188
+#: app/Services/Platforms/Feeds/Facebook/Config.php:497
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:313
+msgid "Like and Share Button"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Config.php:501
+msgid "Like Page"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:404
+msgid "Like/Share Button"
+msgstr ""
+
+#: app/Services/TranslationString.php:25 app/Services/TranslationString.php:38
+#: app/Services/Widgets/FacebookFeedWidget.php:667
+#: app/Services/Platforms/Feeds/Facebook/Config.php:67
+msgid "Likes"
+msgstr ""
+
+#: app/Hooks/Handlers/ShortcodeHandler.php:1072
+#: app/Views/public/feeds-templates/facebook/header.php:84
+msgid "likes"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:104
+msgid "Likes Count Color"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:119
+msgid "Likes Counter"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:132
+msgid "Likes Counter Typography"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:72
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:114
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:158
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:195
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:72
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:109
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:151
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:188
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:230
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:72
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:109
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:146
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:72
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:109
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:139
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:221
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:255
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:289
+msgid "Line Height"
+msgstr ""
+
+#: app/Services/Widgets/FacebookFeedWidget.php:414
+#: app/Services/Widgets/TwitterWidget.php:217
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:135
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:238
+msgid "Link Color"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Facebook/Config.php:381
+msgid "Link Color:"
+msgstr ""
+
+#: app/Services/Widgets/FacebookFeedWidget.php:426
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:248
+msgid "Link Hover Color"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1246
+msgid "Lithuania"
+msgstr ""
+
+#: app/Views/public/feeds-templates/youtube/elements/preview_image.php:52
+msgid "LIVE"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Config.php:41
+#: app/Services/Platforms/Feeds/Config.php:246
+#: app/Services/Platforms/Feeds/Config.php:372
+#: app/Services/Platforms/Feeds/Config.php:511
+#: app/Services/Platforms/Reviews/Helper.php:195
+msgid "Load More"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:302
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:213
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:217
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:254
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:347
+msgid "Load More Button"
+msgstr ""
+
+#: app/Services/Widgets/TwitterWidget.php:257
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:168
+#: app/Services/Platforms/Feeds/Twitter/Config.php:77
+msgid "Location"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:115
+msgid "Location Color"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1247
+msgid "Luxembourg"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1250
+msgid "Macao S.A.R., China"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1252
+msgid "Macedonia"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1253
+msgid "Madagascar"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1254
+msgid "Malawi"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1255
+msgid "Malaysia"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1256
+msgid "Maldives"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1257
+msgid "Mali"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1258
+msgid "Malta"
+msgstr ""
+
+#: app/Services/PermissionManager.php:53
+msgid "Manage Chat Widgets"
+msgstr ""
+
+#: app/Services/PermissionManager.php:59
+msgid "Manage Feeds Platforms Settings"
+msgstr ""
+
+#: app/Services/PermissionManager.php:83
+msgid "Manage License Settings"
+msgstr ""
+
+#: app/Services/PermissionManager.php:47
+msgid "Manage Notification Popup"
+msgstr ""
+
+#: app/Services/PermissionManager.php:17
+msgid "Manage Platforms"
+msgstr ""
+
+#: app/Services/PermissionManager.php:23
+msgid "Manage QR Codes"
+msgstr ""
+
+#: app/Services/PermissionManager.php:29
+msgid "Manage Reviews"
+msgstr ""
+
+#: app/Services/PermissionManager.php:65
+msgid "Manage Reviews Platforms Settings"
+msgstr ""
+
+#: app/Services/PermissionManager.php:71
+msgid "Manage Shoppable Settings"
+msgstr ""
+
+#: app/Services/PermissionManager.php:41
+msgid "Manage Templates"
+msgstr ""
+
+#: app/Services/PermissionManager.php:35
+msgid "Manage Testimonials"
+msgstr ""
+
+#: app/Services/PermissionManager.php:77
+msgid "Manage Translation Settings"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:575
+msgid "Manually syncing reviews"
+msgstr ""
+
+#: app/Services/Widgets/YoutubeWidget.php:391
+#: app/Services/Widgets/YoutubeWidget.php:501
+#: app/Services/Widgets/YoutubeWidget.php:591
+#: app/Services/Widgets/YoutubeWidget.php:665
+#: app/Services/Widgets/YoutubeWidget.php:741
+#: app/Services/Widgets/InstagramWidget.php:407
+#: app/Services/Widgets/InstagramWidget.php:483
+#: app/Services/Widgets/InstagramWidget.php:564
+#: app/Services/Widgets/InstagramWidget.php:653
+#: app/Services/Widgets/FacebookFeedWidget.php:129
+#: app/Services/Widgets/FacebookFeedWidget.php:794
+#: app/Services/Widgets/TwitterWidget.php:597
+#: app/Services/Widgets/TwitterWidget.php:673
+#: app/Services/Widgets/TwitterWidget.php:773
+#: app/Services/Widgets/TwitterWidget.php:854
+#: app/Services/Widgets/TwitterWidget.php:943
+#: app/Services/Widgets/ReviewsWidget.php:271
+#: app/Services/Widgets/ReviewsWidget.php:361
+#: app/Services/Widgets/ReviewsWidget.php:451
+#: app/Services/Widgets/ReviewsWidget.php:541
+#: app/Services/Widgets/ReviewsWidget.php:719
+#: app/Services/Widgets/ReviewsWidget.php:797
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:278
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:346
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:375
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:419
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:325
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:438
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:467
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:511
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:90
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:203
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:247
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:229
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:268
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:309
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:353
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:170
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:481
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:525
+msgid "Margin"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1261
+msgid "Marshall Islands"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1263
+msgid "Martinique"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1264
+msgid "Mauritania"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1265
+msgid "Mauritius"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1266
+msgid "Mayotte"
+msgstr ""
+
+#: app/Services/Widgets/TwitterWidget.php:534
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:356
+#: app/Services/Platforms/Feeds/Twitter/Config.php:188
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:209
+msgid "Meta"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1267
+msgid "Mexico"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1268
+msgid "Micronesia"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1269
+msgid "Moldova"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1270
+msgid "Monaco"
+msgstr ""
+
+#: app/Services/Platforms/Chats/Config.php:67
+msgid "Monday"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1271
+msgid "Mongolia"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1272
+msgid "Montenegro"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1273
+msgid "Montserrat"
+msgstr ""
+
+#: app/Services/Platforms/PlatformErrorManager.php:413
+msgid "More Information"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1274
+msgid "Morocco"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1275
+msgid "Mozambique"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1276
+msgid "Myanmar"
+msgstr ""
+
+#: app/Services/Widgets/TwitterWidget.php:492
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:344
+#: app/Services/Platforms/Feeds/Twitter/Config.php:164
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:133
+msgid "Name"
+msgstr ""
+
+#: app/Http/Controllers/SettingsController.php:242
+msgid "Name cannot be empty."
+msgstr ""
+
+#: app/Http/Controllers/SettingsController.php:248
+msgid "Name cannot be more than 25 characters."
+msgstr ""
+
+#: app/Services/Widgets/FacebookFeedWidget.php:293
+msgid "Name Color"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1277
+msgid "Namibia"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1278
+msgid "Nauru"
+msgstr ""
+
+#: app/Services/Platforms/Chats/Config.php:122
+msgid "Need Help?"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1279
+msgid "Nepal"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1282
+msgid "Netherlands"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1286
+msgid "New Caledonia"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1290
+msgid "New Zealand"
+msgstr ""
+
+#: app/Hooks/Handlers/ShortcodeHandler.php:1083
+msgid "Next slide"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1292
+msgid "Nicaragua"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1293
+msgid "Niger"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1294
+msgid "Nigeria"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1295
+msgid "Niue"
+msgstr ""
+
+#: app/Http/Controllers/WidgetsController.php:88
+msgid "No chat widget found when duplicating the chat widget."
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Youtube/YoutubeFeed.php:397
+msgid "No credential found. Please configure your YouTube settings correctly."
+msgstr ""
+
+#: app/Http/Controllers/NotificationsController.php:104
+msgid "No notification stream found when duplicating the notification."
+msgstr ""
+
+#: app/Http/Controllers/SettingsController.php:357
+msgid "No platforms found!"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Airbnb.php:301
+msgid "No reviews Found!"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/GoogleMyBusiness.php:262
+msgid "No reviews found!"
+msgstr ""
+
+#: app/Http/Controllers/TemplatesController.php:142
+msgid "No template found when duplicating the template"
+msgstr ""
+
+#: app/Hooks/Handlers/ShortcodeHandler.php:91
+msgid "No template is available for this shortcode!!"
+msgstr ""
+
+#: app/Hooks/Handlers/ShortcodeHandler.php:701
+msgid "No templates found!! Please save and try again"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Youtube/YoutubeFeed.php:574
+msgid ""
+"No videos found. Make sure this is a valid channel ID and that the channel "
+"has videos available on YouTube."
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Youtube/YoutubeFeed.php:585
+#: app/Services/Platforms/Feeds/Youtube/YoutubeFeed.php:656
+msgid ""
+"No videos found. Please make sure the provided input is correct and the "
+"content is publicly available on YouTube."
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1298
+msgid "Norfolk Island"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1306
+msgid "North Korea"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1302
+msgid "Northern Mariana Islands"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1308
+msgid "Norway"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Config.php:387
+msgid "Notification"
+msgstr ""
+
+#: app/Http/Controllers/NotificationsController.php:170
+msgid "Notification has been successfully deleted."
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:102
+msgid "Notification Popups"
+msgstr ""
+
+#: app/Http/Controllers/NotificationsController.php:146
+msgid "Notification status update successfully!!"
+msgstr ""
+
+#: app/Http/Controllers/NotificationsController.php:129
+msgid "Notification successfully duplicated."
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Config.php:426
+msgid "Notification Title"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:98
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:214
+msgid "Number Color"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Instagram/Config.php:56
+msgid "Number Color:"
+msgstr ""
+
+#: app/Services/Platforms/Chats/Config.php:130
+msgid "Olivia Scott"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1309
+msgid "Oman"
+msgstr ""
+
+#: app/Services/TranslationString.php:30
+msgid "On"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Helper.php:125
+msgid "On Site"
+msgstr ""
+
+#: app/Services/TranslationString.php:40
+#: app/Hooks/Handlers/ShortcodeHandler.php:1069
+msgid "Online Event"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Twitter/TwitterApi.php:265
+msgid "Oops, Somethings wrong. "
+msgstr ""
+
+#: app/Services/Widgets/YoutubeWidget.php:289
+#: app/Services/Widgets/YoutubeWidget.php:409
+#: app/Services/Widgets/YoutubeWidget.php:519
+#: app/Services/Widgets/YoutubeWidget.php:609
+#: app/Services/Widgets/YoutubeWidget.php:677
+#: app/Services/Widgets/YoutubeWidget.php:753
+#: app/Services/Widgets/InstagramWidget.php:319
+#: app/Services/Widgets/InstagramWidget.php:425
+#: app/Services/Widgets/InstagramWidget.php:576
+#: app/Services/Widgets/InstagramWidget.php:665
+#: app/Services/Widgets/FacebookFeedWidget.php:141
+#: app/Services/Widgets/FacebookFeedWidget.php:260
+#: app/Services/Widgets/FacebookFeedWidget.php:718
+#: app/Services/Widgets/FacebookFeedWidget.php:806
+#: app/Services/Widgets/TwitterWidget.php:447
+#: app/Services/Widgets/TwitterWidget.php:615
+#: app/Services/Widgets/TwitterWidget.php:691
+#: app/Services/Widgets/TwitterWidget.php:866
+#: app/Services/Widgets/TwitterWidget.php:955
+#: app/Services/Widgets/ReviewsWidget.php:169
+#: app/Services/Widgets/ReviewsWidget.php:289
+#: app/Services/Widgets/ReviewsWidget.php:379
+#: app/Services/Widgets/ReviewsWidget.php:469
+#: app/Services/Widgets/ReviewsWidget.php:559
+#: app/Services/Widgets/ReviewsWidget.php:663
+#: app/Services/Widgets/ReviewsWidget.php:731
+#: app/Services/Widgets/ReviewsWidget.php:809
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:237
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:271
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:314
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:368
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:412
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:287
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:319
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:349
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:372
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:393
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:460
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:504
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:74
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:83
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:117
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:129
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:141
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:153
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:174
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:196
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:240
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:188
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:222
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:255
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:280
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:302
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:346
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:163
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:197
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:437
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:474
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:518
+msgid "Padding"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:84
+msgid "PageName Color"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:114
+msgid "PageName Typography"
+msgstr ""
+
+#: app/Services/Widgets/YoutubeWidget.php:626
+#: app/Services/Widgets/InstagramWidget.php:525
+#: app/Services/Widgets/FacebookFeedWidget.php:90
+#: app/Services/Widgets/TwitterWidget.php:815
+#: app/Services/Widgets/ReviewsWidget.php:680
+#: app/Services/Platforms/Reviews/Config.php:475
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:353
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:445
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:181
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:287
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:459
+#: app/Services/Platforms/Feeds/Instagram/Config.php:330
+#: app/Services/Platforms/Feeds/Youtube/Config.php:197
+#: app/Services/Platforms/Feeds/Facebook/Config.php:522
+msgid "Pagination"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1310
+msgid "Pakistan"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1313
+msgid "Palestinian Territory"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1315
+msgid "Panama"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1318
+msgid "Papua New Guinea"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1320
+msgid "Paraguay"
+msgstr ""
+
+#: app/Services/TranslationString.php:39
+#: app/Hooks/Handlers/ShortcodeHandler.php:1068
+msgid "People Responded"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1321
+msgid "Peru"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1324
+msgid "Philippines"
+msgstr ""
+
+#: app/Views/public/feeds-templates/facebook/elements/media.php:24
+msgid "Photo"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1326
+msgid "Pitcairn"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:205
+msgid "Platform"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:209
+msgid "Platform Background Color"
+msgstr ""
+
+#: app/Services/Widgets/InstagramWidget.php:631
+#: app/Services/Widgets/FacebookFeedWidget.php:772
+#: app/Services/Widgets/TwitterWidget.php:921
+msgid "Platform Icon Color"
+msgstr ""
+
+#: app/Services/Widgets/ReviewsWidget.php:622
+#: app/Services/Platforms/Reviews/Config.php:286
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:160
+msgid "Platform Name"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:70
+msgid "Platforms"
+msgstr ""
+
+#: app/Http/Controllers/SettingsController.php:364
+msgid "Platforms BusinessInfo"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Twitter/TwitterApi.php:270
+msgid ""
+"Please check that you have entered your Twitter API token information "
+"correctly"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Twitter/TwitterApi.php:272
+msgid "Please check the Twitter Username you have entered is correct"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Instagram/InstagramFeed.php:205
+msgid ""
+"Please check, you allow all access in wp social ninja facebook app correctly."
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Instagram/InstagramFeed.php:200
+msgid "Please configure your business account correctly!"
+msgstr ""
+
+#. Please retain the placeholders (%s, %d, etc.) and ensure they are correctly used in context.
+#: app/Services/Platforms/Feeds/Youtube/YoutubeFeed.php:443
+#, php-format
+msgid "Please enter %1$s %2$s to fetch videos!!"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Facebook/FacebookFeed.php:652
+msgid "Please enter a date range."
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Instagram/InstagramFeed.php:650
+msgid "Please enter a hashtag to fetch your instagram hashtags feed!!"
+msgstr ""
+
+#: app/Services/DashboardNotices.php:132
+msgid "Please enter a valid email!"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Airbnb.php:177
+msgid "Please enter a valid url!"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Youtube/YoutubeFeed.php:646
+msgid "Please enter a video id!! "
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Youtube/YoutubeFeed.php:691
+msgid "Please enter Channel ID, Username or Handle to fetch videos!!"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Facebook/FacebookFeed.php:662
+msgid "Please enter valid date range."
+msgstr ""
+
+#: app/Services/DashboardNotices.php:136
+msgid "Please enter your name!"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Instagram/InstagramFeed.php:74
+msgid "Please provide a user id."
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Facebook/FacebookFeed.php:334
+msgid "Please select a page to get feeds"
+msgstr ""
+
+#: app/Hooks/Handlers/ShortcodeHandler.php:94
+msgid "Please set a template platform name on your shortcode"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Twitter/TwitterFeed.php:491
+msgid "Please set your twitter configuration correctly!!"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Youtube/YoutubeFeed.php:447
+msgid "Please upgrade to pro version to use this features!! "
+msgstr ""
+
+#: app/Hooks/Handlers/ShortcodeHandler.php:54
+msgid "Please, set a template platform name or template id on your shortcode"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1327
+msgid "Poland"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:568
+msgid "Popular page builder widget ready"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Instagram/Config.php:235
+msgid "Popup Box"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1328
+msgid "Portugal"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:142
+msgid "Post Author"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:224
+msgid "Post Content"
+msgstr ""
+
+#: app/Services/Widgets/FacebookFeedWidget.php:314
+#: app/Services/Platforms/Feeds/Facebook/Config.php:138
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:166
+msgid "Post Date"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Instagram/Config.php:259
+msgid "Post Description"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Instagram/Config.php:275
+msgid "Post Hashtag"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:278
+msgid "Post Summary Card"
+msgstr ""
+
+#: app/Services/Widgets/FacebookFeedWidget.php:384
+#: app/Services/Platforms/Feeds/Facebook/Config.php:344
+msgid "Post Text"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Instagram/Config.php:291
+msgid "Post Time"
+msgstr ""
+
+#: app/Services/Widgets/FacebookFeedWidget.php:344
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:269
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:190
+msgid "Post Title"
+msgstr ""
+
+#: app/Services/TranslationString.php:26
+msgid "Posts"
+msgstr ""
+
+#: app/Hooks/Handlers/ShortcodeHandler.php:1082
+msgid "Previous slide"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Youtube/YoutubeFeed.php:506
+#: app/Services/Platforms/Feeds/Youtube/YoutubeFeed.php:830
+#: app/Services/Platforms/Feeds/Youtube/YoutubeFeed.php:945
+msgid "Problem in api key or access token setting!!"
+msgstr ""
+
+#: app/Hooks/Handlers/ShortcodeHandler.php:61
+msgid "Provided platform name is not valid."
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1331
+msgid "Puerto Rico"
+msgstr ""
+
+#: app/Services/Platforms/Chats/Config.php:131
+msgid "QA Manager"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1333
+msgid "Qatar"
+msgstr ""
+
+#: app/Http/Controllers/SettingsController.php:342
+msgid "QR code deleted successfully!"
+msgstr ""
+
+#: app/Http/Controllers/SettingsController.php:291
+msgid "QR code generated successfully!"
+msgstr ""
+
+#: app/Http/Controllers/SettingsController.php:307
+msgid "QR code not found."
+msgstr ""
+
+#: app/Http/Controllers/SettingsController.php:325
+msgid "QR code updated successfully!"
+msgstr ""
+
+#: app/Http/Controllers/SettingsController.php:233
+msgid "QR codes retrieved successfully!"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Twitter/TwitterApi.php:268
+msgid "Rate Limit Exceeded. Please try again an hour later"
+msgstr ""
+
+#: app/Views/public/reviews-templates/elements/reviewer-rating.php:30
+msgid "Rated"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Helper.php:203
+msgid "Rating"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Config.php:45
+#: app/Services/Platforms/Reviews/Config.php:338
+msgid "Rating Number"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Config.php:61
+msgid "Rating Text"
+msgstr ""
+
+#: app/Services/Widgets/ReviewsWidget.php:109
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:92
+msgid "Rating Text Color"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:83
+msgid "Rating Text Typography"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Config.php:322
+msgid "Rating Title"
+msgstr ""
+
+#: app/Services/TranslationString.php:31
+#: app/Views/public/reviews-templates/footer.php:30
+msgid "Read all reviews"
+msgstr ""
+
+#: app/Services/TranslationString.php:33
+msgid "Read Less"
+msgstr ""
+
+#: app/Hooks/Handlers/ShortcodeHandler.php:1066
+msgid "Read less"
+msgstr ""
+
+#: app/Services/TranslationString.php:32
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:230
+msgid "Read More"
+msgstr ""
+
+#: app/Hooks/Handlers/ShortcodeHandler.php:1065
+msgid "Read more"
+msgstr ""
+
+#: app/Services/Widgets/FacebookFeedWidget.php:438
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:258
+msgid "Read More Link Color"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Facebook/Config.php:410
+msgid "Read More Link Color:"
+msgstr ""
+
+#: app/Services/Widgets/ReviewsWidget.php:576
+#: app/Services/Platforms/Reviews/Config.php:263
+msgid "Read More/Less"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Helper.php:204
+msgid "Read our {reviews_count} Reviews"
+msgstr ""
+
+#: app/Services/TranslationString.php:28
+msgid "Recommends"
+msgstr ""
+
+#: app/Views/public/reviews-templates/elements/reviewer-rating.php:43
+msgid "recommends"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1118
+msgid "Republic of the Congo (Brazzaville)"
+msgstr ""
+
+#: app/Http/Controllers/SettingsController.php:207
+msgid "Reset Error Logs successfully!"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:570
+msgid "Responsive query"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1334
+msgid "Reunion"
+msgstr ""
+
+#: app/Services/Widgets/ReviewsWidget.php:778
+#: app/Services/Platforms/Reviews/Config.php:504
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:225
+msgid "Review Box"
+msgstr ""
+
+#: app/Services/Widgets/ReviewsWidget.php:396
+#: app/Services/Platforms/Reviews/Config.php:185
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:136
+msgid "Review Date"
+msgstr ""
+
+#: app/Http/Controllers/Platforms/Reviews/RecommendationsController.php:75
+#: app/Http/Controllers/Platforms/Reviews/RecommendationsController.php:89
+msgid "Review has been successfully created"
+msgstr ""
+
+#: app/Http/Controllers/Platforms/Reviews/RecommendationsController.php:155
+msgid "Review has been successfully deleted"
+msgstr ""
+
+#: app/Http/Controllers/Platforms/Reviews/RecommendationsController.php:108
+msgid "Review has been successfully updated"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:148
+msgid "Review Text"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Config.php:442
+msgid "Review Time"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:124
+msgid "Review Title"
+msgstr ""
+
+#: app/Services/Widgets/ReviewsWidget.php:216
+#: app/Services/Platforms/Reviews/Config.php:116
+#: app/Services/Platforms/Reviews/Config.php:410
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:112
+msgid "Reviewer Name"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:78
+#: app/Services/Widgets/Oxygen/OxygenWidget.php:44
+msgid "Reviews"
+msgstr ""
+
+#: app/Services/Platforms/BaseImageOptimizationHandler.php:322
+msgid ""
+"Reviews are not being displayed due to the \"Optimize Image Reviews\" option "
+"being disabled. If the GDPR settings are set to \"Yes,\" it is necessary to "
+"enable the optimize image reviews option."
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Helper.php:59
+msgid "Reviews fetched failed, Please try again!!"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Helper.php:50
+msgid "Reviews fetched successfully!!"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/BaseReview.php:392
+#: app/Services/Platforms/Reviews/BaseReview.php:403
+#: app/Services/Platforms/Reviews/GoogleMyBusiness.php:641
+msgid "Reviews synced successfully!"
+msgstr ""
+
+#: app/Services/Widgets/YoutubeWidget.php:356
+#: app/Services/Widgets/YoutubeWidget.php:556
+#: app/Services/Widgets/ReviewsWidget.php:236
+#: app/Services/Widgets/ReviewsWidget.php:326
+#: app/Services/Widgets/ReviewsWidget.php:416
+#: app/Services/Widgets/ReviewsWidget.php:506
+msgid "Right"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1335
+msgid "Romania"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1336
+msgid "Russia"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1337
+msgid "Rwanda"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1340
+msgid "Saint Barth&eacute;lemy"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1344
+msgid "Saint Helena"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1348
+msgid "Saint Kitts and Nevis"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1352
+msgid "Saint Lucia"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1360
+msgid "Saint Martin (Dutch part)"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1356
+msgid "Saint Martin (French part)"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1364
+msgid "Saint Pierre and Miquelon"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1368
+msgid "Saint Vincent and the Grenadines"
+msgstr ""
+
+#: app/Services/Platforms/Chats/Config.php:147
+msgid "Sales Manager"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1487
+msgid "Samoa"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1370
+msgid "San Marino"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1373
+msgid "Sao Tome and Principe"
+msgstr ""
+
+#: app/Services/Platforms/Chats/Config.php:65
+msgid "Saturday"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1377
+msgid "Saudi Arabia"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:579
+msgid "Schema snippet"
+msgstr ""
+
+#: app/Services/Widgets/YoutubeWidget.php:73
+#: app/Services/Widgets/InstagramWidget.php:74
+#: app/Services/Widgets/FacebookFeedWidget.php:74
+#: app/Services/Widgets/TwitterWidget.php:75
+#: app/Services/Widgets/ReviewsWidget.php:85
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:60
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:60
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:60
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:58
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:59
+msgid "Select a Template"
+msgstr ""
+
+#: app/Services/Widgets/Helper.php:25
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:441
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:533
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:269
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:375
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:547
+msgid "Select a template"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:35
+msgid "Select Reviews Template"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:35
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:35
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:35
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:35
+msgid "Select Template"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1379
+msgid "Senegal"
+msgstr ""
+
+#. Please retain the placeholders (%s, %d, etc.) and ensure they are correctly used in context.
+#: app/Views/email/report/body.php:184
+#, php-format
+msgid "Sent from %s"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1380
+msgid "Serbia"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:125
+msgid "Settings"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/BaseFeed.php:83
+#: app/Services/Platforms/Reviews/BaseReview.php:237
+#: app/Services/Platforms/Reviews/BaseReview.php:293
+msgid "Settings Saved Successfully"
+msgstr ""
+
+#: app/Http/Controllers/SettingsController.php:125
+#: app/Http/Controllers/SettingsController.php:172
+msgid "Settings saved successfully!"
+msgstr ""
+
+#: app/Http/Controllers/ShoppablesController.php:65
+msgid "Settings Saved Successfully."
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1381
+msgid "Seychelles"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Config.php:506
+msgid "Share"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:569
+msgid "Shortcode integration"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:576
+msgid "Shorten longer reviews"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:479
+msgid ""
+"Show the best AliExpress reviews on your website to promote your brand with "
+"a detailed customization option."
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:528
+msgid ""
+"Showcase Facebook reviews on your WordPress website & prove your business "
+"credibility to another level."
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1384
+msgid "Sierra Leone"
+msgstr ""
+
+#. Please retain the placeholders (%s, %d, etc.) and ensure they are correctly used in context.
+#: app/Services/Platforms/PlatformErrorManager.php:216
+#: app/Services/Platforms/PlatformErrorManager.php:224
+#, php-format
+msgid ""
+"Simply tap on the \"Continue with Instagram/Facebook\" button on the \"%s "
+"Configuration\" modal to reconnect your account and update its permissions."
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1386
+msgid "Singapore"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1387
+msgid "Slovakia"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1388
+msgid "Slovenia"
+msgstr ""
+
+#: app/Services/Widgets/FacebookFeedWidget.php:21
+#: app/Services/Widgets/FacebookFeedWidget.php:67
+msgid "Social Ninja Facebook Feed"
+msgstr ""
+
+#: app/Services/Widgets/InstagramWidget.php:21
+msgid "Social Ninja Instagram"
+msgstr ""
+
+#: app/Services/Widgets/InstagramWidget.php:67
+msgid "Social Ninja Instagram Feed"
+msgstr ""
+
+#: app/Services/Widgets/ReviewsWidget.php:21
+#: app/Services/Widgets/ReviewsWidget.php:78
+msgid "Social Ninja Reviews"
+msgstr ""
+
+#: app/Services/Widgets/TwitterWidget.php:21
+msgid "Social Ninja Twitter"
+msgstr ""
+
+#: app/Services/Widgets/TwitterWidget.php:68
+msgid "Social Ninja Twitter Feed"
+msgstr ""
+
+#: app/Services/Widgets/YoutubeWidget.php:20
+msgid "Social Ninja YouTube"
+msgstr ""
+
+#: app/Services/Widgets/YoutubeWidget.php:66
+msgid "Social Ninja Youtube"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:11
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:18
+msgid "Social Reviews"
+msgstr ""
+
+#: app/Http/Controllers/TemplatesController.php:60
+#: app/Http/Controllers/Platforms/PlatformController.php:83
+msgid "Social Wall"
+msgstr ""
+
+#: app/Http/Controllers/TemplatesController.php:99
+msgid "Social Wall Template"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1391
+msgid "Solomon Islands"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1393
+msgid "Somalia"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Facebook/FacebookFeed.php:889
+msgid "Something went wrong"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/GoogleMyBusiness.php:178
+msgid "Something went wrong, please try again!"
+msgstr ""
+
+#: app/Http/Controllers/SettingsController.php:97
+msgid "Sorry! License could not be added. Please try again"
+msgstr ""
+
+#: app/Http/Controllers/SettingsController.php:85
+msgid "Sorry! License could not be removed. Please try again"
+msgstr ""
+
+#: app/Http/Controllers/SettingsController.php:73
+msgid "Sorry! License could not be retrieved. Please try again"
+msgstr ""
+
+#: app/Http/Controllers/SettingsController.php:346
+msgid "Sorry! QR code could not be deleted. Please try again"
+msgstr ""
+
+#: app/Http/Controllers/SettingsController.php:297
+msgid "Sorry! QR code could not be generated. Please try again"
+msgstr ""
+
+#: app/Http/Controllers/SettingsController.php:331
+msgid "Sorry! QR code could not be updated. Please try again"
+msgstr ""
+
+#: app/Http/Controllers/SettingsController.php:229
+msgid "Sorry! QR codes could not be retrieved. Please try again"
+msgstr ""
+
+#: app/Hooks/Handlers/ShortcodeHandler.php:219
+msgid "Sorry! We could not get any reviews"
+msgstr ""
+
+#: app/Http/Controllers/Platforms/AddonController.php:23
+msgid "Sorry! you do not have permission to install plugin"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Youtube/YoutubeFeed.php:73
+msgid "Sorry, Something went wrong!"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1396
+msgid "South Africa"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1400
+msgid "South Georgia/Sandwich Islands"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1404
+msgid "South Korea"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1408
+msgid "South Sudan"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:408
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:500
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:79
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:236
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:342
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:514
+msgid "Spacing"
+msgstr ""
+
+#: app/Services/Widgets/YoutubeWidget.php:174
+#: app/Services/Widgets/YoutubeWidget.php:481
+#: app/Services/Widgets/InstagramWidget.php:175
+#: app/Services/Widgets/InstagramWidget.php:501
+#: app/Services/Widgets/TwitterWidget.php:334
+#: app/Services/Widgets/TwitterWidget.php:577
+#: app/Services/Widgets/TwitterWidget.php:791
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:119
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:334
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:235
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:360
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:426
+#: app/Services/Platforms/Feeds/Instagram/Config.php:70
+#: app/Services/Platforms/Feeds/Instagram/Config.php:230
+msgid "Spacing Between Item"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Youtube/Config.php:62
+#: app/Services/Platforms/Feeds/Youtube/Config.php:161
+msgid "Spacing Between Items"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Config.php:224
+#: app/Services/Platforms/Feeds/Youtube/Config.php:51
+msgid "Spacing Bottom"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Config.php:144
+#: app/Services/Platforms/Reviews/Config.php:172
+#: app/Services/Platforms/Reviews/Config.php:198
+#: app/Services/Platforms/Reviews/Config.php:250
+msgid "Spacing Top"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1410
+msgid "Spain"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1411
+msgid "Sri Lanka"
+msgstr ""
+
+#: app/Services/Platforms/Chats/Config.php:42
+msgid "Start Chat with:"
+msgstr ""
+
+#: app/Services/Widgets/YoutubeWidget.php:145
+#: app/Services/Widgets/YoutubeWidget.php:426
+#: app/Services/Widgets/InstagramWidget.php:146
+#: app/Services/Widgets/InstagramWidget.php:442
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:89
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:321
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:205
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:89
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:262
+#: app/Services/Platforms/Feeds/Instagram/Config.php:48
+#: app/Services/Platforms/Feeds/Instagram/Config.php:191
+#: app/Services/Platforms/Feeds/Youtube/Config.php:55
+#: app/Services/Platforms/Feeds/Youtube/Config.php:152
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:189
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:169
+msgid "Statistics"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:95
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:95
+msgid "Statistics Color"
+msgstr ""
+
+#: app/Services/Widgets/TwitterWidget.php:353
+#: app/Services/Platforms/Feeds/Twitter/Config.php:109
+msgid "Statistics Count"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:135
+msgid "Statistics Count Color"
+msgstr ""
+
+#: app/Services/Widgets/TwitterWidget.php:305
+#: app/Services/Platforms/Feeds/Twitter/Config.php:93
+msgid "Statistics Label"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:125
+msgid "Statistics Label Color"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:68
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:68
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:68
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:66
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:67
+msgid "Style"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Config.php:215
+msgid "SUBSCRIBE"
+msgstr ""
+
+#: app/Services/Widgets/YoutubeWidget.php:224
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:156
+#: app/Services/Platforms/Feeds/Youtube/Config.php:90
+msgid "Subscribe Button"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:125
+msgid "Subscribe Button Background Color"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:115
+msgid "Subscribe Button Text Color"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:135
+msgid "Subscribe Button Typography"
+msgstr ""
+
+#: app/Services/TranslationString.php:19
+msgid "Subscribers"
+msgstr ""
+
+#: app/Services/Platforms/Chats/SocialChat.php:37
+#: app/Services/Platforms/Feeds/Twitter/TwitterFeed.php:188
+#: app/Services/Platforms/Feeds/Instagram/InstagramFeed.php:503
+#: app/Services/Platforms/Feeds/Youtube/YoutubeFeed.php:285
+#: app/Services/Platforms/Feeds/Facebook/FacebookFeed.php:433
+msgid "Success"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/BaseFeed.php:61
+msgid "success"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Facebook/FacebookFeed.php:265
+msgid "Successfully Connected!"
+msgstr ""
+
+#: app/Http/Controllers/SettingsController.php:216
+msgid "Successfully deleted all datas!"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Facebook/FacebookFeed.php:194
+msgid "Successfully Disconnected!"
+msgstr ""
+
+#: app/Services/Platforms/Chats/SocialChat.php:86
+msgid "Successfully Updated"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1412
+msgid "Sudan"
+msgstr ""
+
+#: app/Services/Widgets/FacebookFeedWidget.php:450
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:303
+#: app/Services/Platforms/Feeds/Facebook/Config.php:432
+msgid "Summary Card"
+msgstr ""
+
+#: app/Services/Platforms/Chats/Config.php:66
+msgid "Sunday"
+msgstr ""
+
+#: app/Hooks/filters.php:151 app/Hooks/Handlers/AdminMenuHandler.php:148
+msgid "Support"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1413
+msgid "Suriname"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1416
+msgid "Svalbard and Jan Mayen"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1418
+msgid "Swaziland"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1419
+msgid "Sweden"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1422
+msgid "Switzerland"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1424
+msgid "Syria"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1425
+msgid "Taiwan"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1426
+msgid "Tajikistan"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1427
+msgid "Tanzania"
+msgstr ""
+
+#: app/Http/Controllers/TemplatesController.php:189
+msgid "Template has been successfully deleted"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Twitter/TwitterFeed.php:228
+#: app/Services/Platforms/Feeds/Instagram/InstagramFeed.php:568
+#: app/Services/Platforms/Feeds/Youtube/YoutubeFeed.php:362
+#: app/Services/Platforms/Feeds/Facebook/FacebookFeed.php:469
+#: app/Http/Controllers/Platforms/SocialWall/MetaController.php:56
+msgid "Template Saved Successfully!!"
+msgstr ""
+
+#: app/Http/Controllers/Platforms/Reviews/MetaController.php:205
+msgid "Template saved successfully!!"
+msgstr ""
+
+#: app/Http/Controllers/TemplatesController.php:168
+msgid "Template successfully duplicated"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:94
+msgid "Templates"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:86
+msgid "Testimonials"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Twitter/Config.php:240
+msgid "Text"
+msgstr ""
+
+#: app/Services/Widgets/YoutubeWidget.php:105
+#: app/Services/Widgets/YoutubeWidget.php:153
+#: app/Services/Widgets/YoutubeWidget.php:203
+#: app/Services/Widgets/YoutubeWidget.php:233
+#: app/Services/Widgets/YoutubeWidget.php:643
+#: app/Services/Widgets/InstagramWidget.php:106
+#: app/Services/Widgets/InstagramWidget.php:154
+#: app/Services/Widgets/InstagramWidget.php:203
+#: app/Services/Widgets/InstagramWidget.php:233
+#: app/Services/Widgets/InstagramWidget.php:263
+#: app/Services/Widgets/InstagramWidget.php:374
+#: app/Services/Widgets/InstagramWidget.php:450
+#: app/Services/Widgets/InstagramWidget.php:542
+#: app/Services/Widgets/FacebookFeedWidget.php:98
+#: app/Services/Widgets/FacebookFeedWidget.php:196
+#: app/Services/Widgets/FacebookFeedWidget.php:393
+#: app/Services/Widgets/TwitterWidget.php:205
+#: app/Services/Widgets/TwitterWidget.php:313
+#: app/Services/Widgets/TwitterWidget.php:391
+#: app/Services/Widgets/TwitterWidget.php:640
+#: app/Services/Widgets/TwitterWidget.php:716
+#: app/Services/Widgets/TwitterWidget.php:832
+#: app/Services/Widgets/ReviewsWidget.php:130
+#: app/Services/Widgets/ReviewsWidget.php:697
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:93
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:326
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:209
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:93
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:123
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:179
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:247
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:281
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:159
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:149
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:173
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:197
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:219
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:146
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:170
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:317
+msgid "Text Color"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Config.php:37
+#: app/Services/Platforms/Reviews/Config.php:53
+#: app/Services/Platforms/Reviews/Config.php:69
+#: app/Services/Platforms/Reviews/Config.php:85
+#: app/Services/Platforms/Reviews/Config.php:130
+#: app/Services/Platforms/Reviews/Config.php:176
+#: app/Services/Platforms/Reviews/Config.php:202
+#: app/Services/Platforms/Reviews/Config.php:228
+#: app/Services/Platforms/Reviews/Config.php:254
+#: app/Services/Platforms/Reviews/Config.php:277
+#: app/Services/Platforms/Reviews/Config.php:300
+#: app/Services/Platforms/Reviews/Config.php:330
+#: app/Services/Platforms/Reviews/Config.php:346
+#: app/Services/Platforms/Reviews/Config.php:362
+#: app/Services/Platforms/Reviews/Config.php:418
+#: app/Services/Platforms/Reviews/Config.php:434
+#: app/Services/Platforms/Reviews/Config.php:450
+#: app/Services/Platforms/Reviews/Config.php:489
+#: app/Services/Platforms/Feeds/Twitter/Config.php:37
+#: app/Services/Platforms/Feeds/Twitter/Config.php:53
+#: app/Services/Platforms/Feeds/Twitter/Config.php:69
+#: app/Services/Platforms/Feeds/Twitter/Config.php:85
+#: app/Services/Platforms/Feeds/Twitter/Config.php:101
+#: app/Services/Platforms/Feeds/Twitter/Config.php:117
+#: app/Services/Platforms/Feeds/Twitter/Config.php:133
+#: app/Services/Platforms/Feeds/Twitter/Config.php:179
+#: app/Services/Platforms/Feeds/Twitter/Config.php:199
+#: app/Services/Platforms/Feeds/Twitter/Config.php:215
+#: app/Services/Platforms/Feeds/Twitter/Config.php:248
+#: app/Services/Platforms/Feeds/Twitter/Config.php:284
+#: app/Services/Platforms/Feeds/Instagram/Config.php:40
+#: app/Services/Platforms/Feeds/Instagram/Config.php:74
+#: app/Services/Platforms/Feeds/Instagram/Config.php:90
+#: app/Services/Platforms/Feeds/Instagram/Config.php:106
+#: app/Services/Platforms/Feeds/Instagram/Config.php:122
+#: app/Services/Platforms/Feeds/Instagram/Config.php:182
+#: app/Services/Platforms/Feeds/Instagram/Config.php:216
+#: app/Services/Platforms/Feeds/Instagram/Config.php:251
+#: app/Services/Platforms/Feeds/Instagram/Config.php:267
+#: app/Services/Platforms/Feeds/Instagram/Config.php:283
+#: app/Services/Platforms/Feeds/Instagram/Config.php:299
+#: app/Services/Platforms/Feeds/Instagram/Config.php:315
+#: app/Services/Platforms/Feeds/Instagram/Config.php:345
+#: app/Services/Platforms/Feeds/Youtube/Config.php:37
+#: app/Services/Platforms/Feeds/Youtube/Config.php:66
+#: app/Services/Platforms/Feeds/Youtube/Config.php:82
+#: app/Services/Platforms/Feeds/Youtube/Config.php:98
+#: app/Services/Platforms/Feeds/Youtube/Config.php:143
+#: app/Services/Platforms/Feeds/Youtube/Config.php:165
+#: app/Services/Platforms/Feeds/Youtube/Config.php:188
+#: app/Services/Platforms/Feeds/Youtube/Config.php:212
+#: app/Services/Platforms/Feeds/Facebook/Config.php:40
+#: app/Services/Platforms/Feeds/Facebook/Config.php:59
+#: app/Services/Platforms/Feeds/Facebook/Config.php:75
+#: app/Services/Platforms/Feeds/Facebook/Config.php:116
+#: app/Services/Platforms/Feeds/Facebook/Config.php:146
+#: app/Services/Platforms/Feeds/Facebook/Config.php:176
+#: app/Services/Platforms/Feeds/Facebook/Config.php:205
+#: app/Services/Platforms/Feeds/Facebook/Config.php:225
+#: app/Services/Platforms/Feeds/Facebook/Config.php:254
+#: app/Services/Platforms/Feeds/Facebook/Config.php:283
+#: app/Services/Platforms/Feeds/Facebook/Config.php:312
+#: app/Services/Platforms/Feeds/Facebook/Config.php:332
+#: app/Services/Platforms/Feeds/Facebook/Config.php:352
+#: app/Services/Platforms/Feeds/Facebook/Config.php:507
+#: app/Services/Platforms/Feeds/Facebook/Config.php:537
+msgid "Text Color:"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1428
+msgid "Thailand"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Instagram/AccountFeed.php:42
+#, php-format
+msgid ""
+"The account ID (%s) linked to your configuration has been deleted. To "
+"continue displaying your feed from this account, please reauthorize and "
+"reconnect it in the configuration settings. Then, go to the template editor, "
+"navigate to Source → Select a User Account, and choose the account again."
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Instagram/InstagramFeed.php:674
+msgid ""
+"The account linked to your configuration has been deleted. To continue "
+"displaying your feed from this account, please reauthorize and reconnect it "
+"in the configuration settings. Then, go to the template editor, navigate to "
+"Source → Select a User Account, and choose the account again."
+msgstr ""
+
+#. Please retain the placeholders (%s, %d, etc.) and ensure they are correctly used in context.
+#: app/Services/Platforms/PlatformErrorManager.php:230
+#, php-format
+msgid ""
+"The connection to TikTok has expired or is no longer valid. This usually "
+"happens if the refresh token is outdated or the app’s permissions have been "
+"changed. To restore the connection, please tap on the \"Continue with "
+"TikTok\" button on the \"%s Configuration\" modal. This will guide you "
+"through reconnecting your account and updating its permissions."
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Facebook/FacebookFeed.php:566
+#, php-format
+msgid ""
+"The Page ID (%s) linked to your configuration has been deleted. To continue "
+"displaying your feed from this page, please reauthorize and reconnect it in "
+"the configuration settings. Then, go to the template editor, navigate to "
+"Source → Select Pages, and choose the page again."
+msgstr ""
+
+#. Please retain the placeholders (%s, %d, etc.) and ensure they are correctly used in context.
+#: app/Services/Platforms/PlatformData.php:575
+#, php-format
+msgid ""
+"The page was not reconnected within the 7 day limit and all %1$s data was "
+"automatically deleted on %2$s due to %3$s data privacy rules."
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Instagram/AccountFeed.php:44
+#: app/Services/Platforms/Feeds/Facebook/FacebookFeed.php:568
+msgid "There are multiple accounts being used on this template. "
+msgstr ""
+
+#. Please retain the placeholders (%s, %d, etc.) and ensure they are correctly used in context.
+#: app/Services/Platforms/PlatformData.php:516
+#: app/Services/Platforms/PlatformData.php:540
+#, php-format
+msgid "There has been a problem with your %s"
+msgstr ""
+
+#. Please retain the placeholders (%s, %d, etc.) and ensure they are correctly used in context.
+#: app/Services/Platforms/Feeds/Instagram/AccountFeed.php:57
+#: app/Services/Platforms/Feeds/Instagram/AccountFeed.php:60
+#: app/Services/Platforms/Feeds/Instagram/AccountFeed.php:78
+#: app/Services/Platforms/Feeds/Instagram/AccountFeed.php:86
+#, php-format
+msgid "There has been a problem with your account(%s). "
+msgstr ""
+
+#. Please retain the placeholders (%s, %d, etc.) and ensure they are correctly used in context.
+#: app/Services/Platforms/BaseImageOptimizationHandler.php:377
+#, php-format
+msgid "There was an error creating the folder for storing resized %s images."
+msgstr ""
+
+#. Please retain the placeholders (%s, %d, etc.) and ensure they are correctly used in context.
+#: app/Services/Platforms/PlatformData.php:609
+#, php-format
+msgid "There's an Issue with an %s on Your Website"
+msgstr ""
+
+#: app/Hooks/filters.php:129 app/Hooks/filters.php:140
+msgid "This error message is only visible to WordPress admins"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Facebook/FacebookFeed.php:514
+msgid "This feed type needs a valid Facebook Album ID/URL"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Facebook/FacebookFeed.php:530
+msgid "This feed type needs a valid Facebook Playlist URL"
+msgstr ""
+
+#. Please retain the placeholders (%s, %d, etc.) and ensure they are correctly used in context.
+#: app/Views/email/report/body.php:171
+#, php-format
+msgid ""
+"This is a courtesy email sent from the WP Social Ninja plugin on your "
+"website to alert you when there is an issue with one of your %s"
+msgstr ""
+
+#: app/Hooks/Handlers/ShortcodeHandler.php:1084
+msgid "This is the first slide"
+msgstr ""
+
+#: app/Hooks/Handlers/ShortcodeHandler.php:1085
+msgid "This is the last slide"
+msgstr ""
+
+#. Please retain the placeholders (%s, %d, etc.) and ensure they are correctly used in context.
+#: app/Services/Platforms/PlatformData.php:615
+#, php-format
+msgid ""
+"This issue is caused by a problem with your %1$s account connection to the "
+"%1$s API. To find out more about the specific problem and receive clear "
+"instructions on how to resolve it, kindly visit the %2$sPlatforms Settings "
+"Page%3$s of the WP Social Ninja plugin on your website."
+msgstr ""
+
+#: app/Services/Platforms/Chats/Config.php:70
+msgid "Thursday"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:141
+msgid "TikTok Feed"
+msgstr ""
+
+#: app/Models/Post.php:177 app/Http/Controllers/TemplatesController.php:95
+msgid "TikTok Template"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1431
+msgid "Timor-Leste"
+msgstr ""
+
+#: app/Services/Widgets/YoutubeWidget.php:336
+#: app/Services/Widgets/ReviewsWidget.php:306
+#: app/Services/Platforms/Reviews/Config.php:29
+#: app/Services/Platforms/Reviews/Config.php:211
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:250
+#: app/Services/Platforms/Feeds/Youtube/Config.php:129
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:145
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:157
+msgid "Title"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:360
+msgid "Title Bottom Spacing"
+msgstr ""
+
+#: app/Services/Widgets/FacebookFeedWidget.php:351
+#: app/Services/Widgets/FacebookFeedWidget.php:498
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:339
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:292
+msgid "Title Color"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Facebook/Config.php:465
+msgid "Title Color:"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:344
+msgid "Title Font Size"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:350
+msgid "Title Font Weight"
+msgstr ""
+
+#: app/Services/Widgets/FacebookFeedWidget.php:362
+msgid "Title Hover Color"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:355
+msgid "Title Line Height"
+msgstr ""
+
+#: app/Http/Controllers/TemplatesController.php:219
+msgid "Title updated successfully!!"
+msgstr ""
+
+#: app/Services/SidebarWidgets.php:52
+msgid "Title:"
+msgstr ""
+
+#. Please retain the placeholders (%s, %d, etc.) and ensure they are correctly used in context.
+#: app/Services/Platforms/PlatformData.php:524
+#, php-format
+msgid ""
+"To avoid automated data deletion, simply view the %s on your website within "
+"the next 7 days."
+msgstr ""
+
+#. Please retain the placeholders (%s, %d, etc.) and ensure they are correctly used in context.
+#: app/Services/Platforms/PlatformData.php:577
+#, php-format
+msgid ""
+"To fix your feeds, reconnect all accounts that were in use on the %1$s %2$s."
+msgstr ""
+
+#: app/Services/Platforms/PlatformErrorManager.php:277
+msgid ""
+"To fix your feeds, reconnect all accounts that were in use on the platform "
+"configuration."
+msgstr ""
+
+#. Please retain the placeholders (%s, %d, etc.) and ensure they are correctly used in context.
+#: app/Services/Platforms/PlatformData.php:550
+#, php-format
+msgid ""
+"To prevent the automated deletion of data for the account, please reconnect "
+"your source for the plugin platforms %s within 7 days."
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1433
+msgid "Togo"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1434
+msgid "Tokelau"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1435
+msgid "Tonga"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:133
+msgid "Tools"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:242
+msgid "Top Spacing"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Config.php:354
+msgid "Total Reviews"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1438
+msgid "Trinidad and Tobago"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:416
+msgid "Tripadvisor"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:430
+msgid "Tripadvisor Reviews"
+msgstr ""
+
+#: app/Services/Platforms/Chats/Config.php:68
+msgid "Tuesday"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1440
+msgid "Tunisia"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1441
+msgid "Turkey"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1444
+msgid "Turkmenistan"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1448
+msgid "Turks and Caicos Islands"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1450
+msgid "Tuvalu"
+msgstr ""
+
+#: app/Services/TranslationString.php:24
+msgid "Tweets"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Twitter/TwitterFeed.php:43
+msgid "Twitter"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:11
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:20
+msgid "Twitter Feeds"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Twitter/TwitterFeed.php:205
+msgid "Twitter Settings Updated"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Twitter/TwitterFeed.php:130
+#: app/Services/Platforms/Feeds/Twitter/TwitterFeed.php:139
+msgid "Twitter Successfully Connected!"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Twitter/TwitterFeed.php:151
+msgid "Twitter Successfully Disconnected!"
+msgstr ""
+
+#: app/Services/Platforms/Chats/Config.php:45
+msgid "Type a message"
+msgstr ""
+
+#: app/Services/Platforms/Chats/Config.php:99
+#: app/Services/Platforms/Chats/Config.php:115
+msgid "Typically replies within an hour"
+msgstr ""
+
+#: app/Services/Widgets/YoutubeWidget.php:118
+#: app/Services/Widgets/YoutubeWidget.php:166
+#: app/Services/Widgets/YoutubeWidget.php:216
+#: app/Services/Widgets/YoutubeWidget.php:259
+#: app/Services/Widgets/YoutubeWidget.php:383
+#: app/Services/Widgets/YoutubeWidget.php:473
+#: app/Services/Widgets/YoutubeWidget.php:583
+#: app/Services/Widgets/YoutubeWidget.php:635
+#: app/Services/Widgets/InstagramWidget.php:119
+#: app/Services/Widgets/InstagramWidget.php:167
+#: app/Services/Widgets/InstagramWidget.php:216
+#: app/Services/Widgets/InstagramWidget.php:246
+#: app/Services/Widgets/InstagramWidget.php:289
+#: app/Services/Widgets/InstagramWidget.php:399
+#: app/Services/Widgets/InstagramWidget.php:475
+#: app/Services/Widgets/InstagramWidget.php:534
+#: app/Services/Widgets/FacebookFeedWidget.php:111
+#: app/Services/Widgets/FacebookFeedWidget.php:233
+#: app/Services/Widgets/FacebookFeedWidget.php:306
+#: app/Services/Widgets/FacebookFeedWidget.php:336
+#: app/Services/Widgets/FacebookFeedWidget.php:375
+#: app/Services/Widgets/FacebookFeedWidget.php:406
+#: app/Services/Widgets/FacebookFeedWidget.php:471
+#: app/Services/Widgets/FacebookFeedWidget.php:511
+#: app/Services/Widgets/FacebookFeedWidget.php:551
+#: app/Services/Widgets/FacebookFeedWidget.php:592
+#: app/Services/Widgets/FacebookFeedWidget.php:640
+#: app/Services/Widgets/FacebookFeedWidget.php:688
+#: app/Services/Widgets/TwitterWidget.php:120
+#: app/Services/Widgets/TwitterWidget.php:169
+#: app/Services/Widgets/TwitterWidget.php:230
+#: app/Services/Widgets/TwitterWidget.php:278
+#: app/Services/Widgets/TwitterWidget.php:326
+#: app/Services/Widgets/TwitterWidget.php:374
+#: app/Services/Widgets/TwitterWidget.php:417
+#: app/Services/Widgets/TwitterWidget.php:522
+#: app/Services/Widgets/TwitterWidget.php:569
+#: app/Services/Widgets/TwitterWidget.php:665
+#: app/Services/Widgets/TwitterWidget.php:765
+#: app/Services/Widgets/TwitterWidget.php:824
+#: app/Services/Widgets/ReviewsWidget.php:263
+#: app/Services/Widgets/ReviewsWidget.php:353
+#: app/Services/Widgets/ReviewsWidget.php:443
+#: app/Services/Widgets/ReviewsWidget.php:533
+#: app/Services/Widgets/ReviewsWidget.php:609
+#: app/Services/Widgets/ReviewsWidget.php:655
+#: app/Services/Widgets/ReviewsWidget.php:689
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:199
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:233
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:267
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:346
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:179
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:203
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:257
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:159
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:183
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:207
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:261
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:147
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:171
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:195
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:244
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:298
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:156
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:180
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:214
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:268
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:337
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:391
+msgid "Typography"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1451
+msgid "Uganda"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1452
+msgid "Ukraine"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1455
+msgid "United Arab Emirates"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1459
+msgid "United Kingdom (UK)"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1463
+msgid "United States (US)"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1467
+msgid "United States (US) Minor Outlying Islands"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1471
+msgid "United States (US) Virgin Islands"
+msgstr ""
+
+#: app/Services/Helper.php:160 app/Services/Helper.php:183
+msgid "Untitled"
+msgstr ""
+
+#: app/Hooks/filters.php:155
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1473
+msgid "Uruguay"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Twitter/Config.php:45
+#: app/Services/Platforms/Feeds/Instagram/Config.php:29
+#: app/Services/Platforms/Feeds/Instagram/Config.php:243
+#: app/Services/Platforms/Feeds/Facebook/Config.php:29
+msgid "User Name"
+msgstr ""
+
+#: app/Services/Widgets/InstagramWidget.php:98
+#: app/Services/Widgets/FacebookFeedWidget.php:571
+#: app/Services/Widgets/TwitterWidget.php:147
+msgid "UserName"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:52
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:89
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:52
+#: app/Services/Platforms/Feeds/Twitter/Config.php:191
+msgid "Username"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:95
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:85
+msgid "UserName Color"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1474
+msgid "Uzbekistan"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1475
+msgid "Vanuatu"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1476
+msgid "Vatican"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1477
+msgid "Venezuela"
+msgstr ""
+
+#: app/Views/public/feeds-templates/facebook/elements/media.php:27
+msgid "Video"
+msgstr ""
+
+#: app/Services/TranslationString.php:22
+msgid "Videos"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1478
+msgid "Vietnam"
+msgstr ""
+
+#: app/Hooks/filters.php:150
+msgid "View Documentation"
+msgstr ""
+
+#: app/Services/TranslationString.php:35
+#: app/Hooks/Handlers/ShortcodeHandler.php:1067
+msgid "View on Facebook"
+msgstr ""
+
+#: app/Services/TranslationString.php:36
+#: app/Hooks/Handlers/ShortcodeHandler.php:1070
+msgid "View on Instagram"
+msgstr ""
+
+#: app/Services/TranslationString.php:37
+#: app/Hooks/Handlers/ShortcodeHandler.php:1071
+msgid "View on TikTok"
+msgstr ""
+
+#: app/Services/TranslationString.php:23
+msgid "Views"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1481
+msgid "Wallis and Futuna"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/GoogleMyBusiness.php:533
+msgid "We don't find any business location from this email address"
+msgstr ""
+
+#: app/Services/Platforms/Chats/Config.php:69
+msgid "Wednesday"
+msgstr ""
+
+#: app/Services/TranslationString.php:43
+msgid "Went"
+msgstr ""
+
+#: app/Hooks/Handlers/ShortcodeHandler.php:1075
+msgid "went"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1485
+msgid "Western Sahara"
+msgstr ""
+
+#: app/Services/TranslationString.php:27
+msgid "Where you want to leave a review"
+msgstr ""
+
+#: app/Http/Controllers/WidgetsController.php:148
+msgid "Widget has been successfully deleted."
+msgstr ""
+
+#: app/Http/Controllers/WidgetsController.php:125
+msgid "Widget status update successfully."
+msgstr ""
+
+#: app/Http/Controllers/WidgetsController.php:108
+msgid "Widget successfully duplicated."
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:537
+msgid "WooCommerce"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:551
+msgid "WooCommerce Reviews"
+msgstr ""
+
+#: app/Models/Post.php:179 app/Http/Controllers/TemplatesController.php:97
+msgid "WooCommerce Template"
+msgstr ""
+
+#. Name of the plugin
+#: app/Services/SidebarWidgets.php:23
+#: app/Services/Widgets/ElementorWidget.php:22
+#: app/Hooks/Handlers/AdminMenuHandler.php:44
+#: app/Services/Widgets/Oxygen/OxygenWidget.php:38
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:22
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:22
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:22
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:20
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:22
+msgid "WP Social Ninja"
+msgstr ""
+
+#: app/Http/Controllers/Platforms/Reviews/MetaController.php:134
+msgid "WP Social Ninja Pro is required to enable AI summary."
+msgstr ""
+
+#. Author of the plugin
+msgid "WPManageNinja LLC"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Helper.php:183
+msgid "Write a Review"
+msgstr ""
+
+#: app/Services/Widgets/ReviewsWidget.php:121
+#: app/Services/Platforms/Reviews/Config.php:77
+msgid "Write a Review Button"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:61
+msgid "Write a review button"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:121
+msgid "Write a Review Button Background Color"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:111
+msgid "Write a Review Button Text Color"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:102
+msgid "Write a Review Button Typography"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:391
+msgid "Yelp"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:406
+msgid "Yelp Reviews"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1488
+msgid "Yemen"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/GoogleMyBusiness.php:455
+#: app/Services/Platforms/Feeds/Youtube/YoutubeFeed.php:109
+msgid "You are Successfully Verified"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Facebook/FacebookFeed.php:73
+msgid "You are Successfully Verified."
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Instagram/InstagramFeed.php:211
+msgid "You are successfully verified."
+msgstr ""
+
+#: app/Views/public/feeds-templates/facebook/template1.php:14
+msgid "You need to upgrade to pro to use this feature."
+msgstr ""
+
+#: app/Hooks/Handlers/ShortcodeHandler.php:140
+msgid "You need to upgrade to pro to use this template!"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Instagram/InstagramFeed.php:647
+msgid "You need to upgrade to pro version to show hashtag feeds!!"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Instagram/InstagramFeed.php:119
+msgid "You've successfully connected your account!"
+msgstr ""
+
+#. Please retain the placeholders (%s, %d, etc.) and ensure they are correctly used in context.
+#: app/Services/Platforms/PlatformData.php:403
+#, php-format
+msgid ""
+"Your %1$s has not been viewed in the last 53 days. Due to meta data privacy "
+"rules, all data for this feed will be deleted in 7 days. To avoid automated "
+"data deletion, simply view the %1$s feed on your website within the next 7 "
+"days."
+msgstr ""
+
+#. Please retain the placeholders (%s, %d, etc.) and ensure they are correctly used in context.
+#: app/Services/Platforms/PlatformData.php:522
+#, php-format
+msgid ""
+"Your %1$s on %2$s has been not viewed in the last 53 days. Due to meta data "
+"privacy rules, all data for this feed will be deleted in 7 days time."
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Instagram/InstagramFeed.php:422
+msgid "Your Instagram Account Successfully Disconnected!"
+msgstr ""
+
+#: app/Services/Platforms/PlatformData.php:519
+#: app/Services/Platforms/PlatformData.php:543
+#: app/Services/Platforms/PlatformData.php:571
+msgid "your website"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Youtube/YoutubeFeed.php:40
+msgid "Youtube"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:11
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:20
+msgid "YouTube Feeds"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Youtube/YoutubeFeed.php:248
+msgid ""
+"YouTube feeds are not being displayed due to the \"optimize images\" option "
+"being disabled. If the GDPR settings are set to \"Yes,\" it is necessary to "
+"enable the optimize images option."
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Youtube/YoutubeFeed.php:333
+msgid "Youtube Settings Updated"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Youtube/YoutubeFeed.php:184
+msgid "Youtube Successfully Connected!"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Youtube/YoutubeFeed.php:206
+msgid "Youtube Successfully Disconnected!"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1489
+msgid "Zambia"
+msgstr ""
+
+#: app/Services/Includes/CountryNames.php:1490
+msgid "Zimbabwe"
+msgstr ""

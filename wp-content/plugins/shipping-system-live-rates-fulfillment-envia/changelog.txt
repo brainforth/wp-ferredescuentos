@@ -1,0 +1,49 @@
+*** WooCommerce Extension Envia Changelog ***
+
+2024-11-07 - Version 4.4.2:
+* Fix: Refined logic for package quantity details to improve accuracy.
+* Fix: Enabled rate requests for carriers in selected countries that don’t require a postal code.
+* Fix: Enabled rate requests for carriers in countries that do not require a postal code.
+* Update: Improved headers in the readme and main plugin file for better clarity.
+* Update: Origin addresses are now displayed correctly when selecting a shipping method within a specific zone.
+* Dev: Added new validations to improve quote processing in classic mode.
+
+2024-09-18 - Version 4.4.1:
+* Fix: Addressed incompatibility with the 'door-to-door' (0) and 'branch-to-branch' (3) drop-off types.
+* Fix: Improved validation for the origin address form.
+* Update: Improved address mapping in the checkout process for Guatemala.
+* Update: Improved UI for store-related information.
+
+2024-05-24 - Version 4.4.0:
+* Fix: Resolved a pricing error when using coupons with any of the three discount types offered by WooCommerce.
+* Fix: Addressed incompatibility with shipping rate rules set from the Envia platform.
+* Fix: Resolved a pricing error for product variants.
+* Dev: Improved support for fixed product discount coupons to now account for excluded products.
+
+2024-05-15 - Version 4.3.2:
+* Fix: Resolved an issue where information was not displayed during the initial OAuth connection due to a conflict in the plugin's main file declaration.
+* Fix: Addressed missing quotes in the cart and checkout processes when adding coupons.
+* Fix: Rectified missing quotes when products were updated on the cart page.
+* Dev: Adapted product dimension data to be sent during the quote process. 
+* Update: Enhanced functionality for certain cart and checkout themes.
+
+2024-03-12 - Version 4.3.1:
+* New: Enhanced compatibility with the new cart and checkout blocks mode in WC.
+* Update: Improved and adapted pick-up functionality for WC's new chart and checkout blocks.
+* New: Implemented Envía Pickup class to handle pickup rates as WC local pickup objects while maintaining classic shipping and local pickup processes in Envía Shipping class.
+* Dev: Separated actioners (type Ajax and type hooks) and functions into distinct PHP files and class structures, including a dedicated class for legacy functions.
+* Dev: Introduced namespaces and trait class declarations in classes, enhancing Object-Oriented Programming (OOP) practices and scalability.
+
+2024-02-21 - Version 4.2.5:
+* Fix: Incompatible file. 
+* Fix: Oauth error message.
+* Fix: Virtual and downloadable product error in finish order.   
+* New: Version request header for Envia calls. 
+* Depured notices and warnings.
+
+2024-01-19 - Version 4.2.4:
+* Fix: Validation of the GET request for origin addresses.
+* Improvements in views for mobile devices (responsive mode).
+* Correction of metadata handling for WooCommerce orders.
+* Code optimization.
+

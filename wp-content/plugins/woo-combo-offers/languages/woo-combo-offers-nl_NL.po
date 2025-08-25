@@ -1,0 +1,293 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Combo Offers Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-05-18 09:41+0000\n"
+"PO-Revision-Date: 2024-05-18 09:55+0000\n"
+"Last-Translator: \n"
+"Language-Team: Nederlands (Formeel)\n"
+"Language: nl_NL_formal\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.9; wp-6.5.3\n"
+"X-Domain: woo-combo-offers-pro"
+
+#: woo-combo-offers-pro.php:1168
+#, php-format
+msgid "(combo in %s)"
+msgstr "(combinatie in %s)"
+
+#: woo-combo-offers-pro.php:1540
+msgid "Add"
+msgstr "Toevoegen"
+
+#: woo-combo-offers-pro.php:64 woo-combo-offers-pro.php:85
+msgid "Add to cart"
+msgstr "In Winkelwagen"
+
+#: woo-combo-offers-pro.php:1510
+msgid "After text"
+msgstr "Na tekst"
+
+#: woo-combo-offers-pro.php:1488
+msgid "Apply to each combo product"
+msgstr "Toepassen op elk comboproduct"
+
+#: woo-combo-offers-pro.php:1487
+msgid "Apply to the whole combo"
+msgstr "Toepassen op de hele combo"
+
+#: woo-combo-offers-pro.php:1421
+msgid "Auto price"
+msgstr "Auto prijs"
+
+#: woo-combo-offers-pro.php:1501
+msgid "Before text"
+msgstr "Voor tekst"
+
+#: woo-combo-offers-pro.php:1114 woo-combo-offers-pro.php:1137
+msgid "Bundled products"
+msgstr "Product bundel"
+
+#: woo-combo-offers-pro.php:1452
+msgid "Buyer can change the quantity of combo products?"
+msgstr "Kan de koper het aantal comboproducten wijzigen?"
+
+#: woo-combo-offers-pro.php:1881
+msgid "Choose"
+msgstr "Kiezen"
+
+#: woo-combo-offers-pro.php:1887
+msgid "Clear"
+msgstr ""
+"Schoonmaken\n"
+
+#: woo-combo-offers-pro.php:1321
+msgid "Combo Offer"
+msgstr "combi aanbieding"
+
+#: woo-combo-offers-pro.php:1355
+msgid "Combo offer"
+msgstr "combi aanbieding"
+
+#: woo-combo-offers-pro.php:1328
+msgid "Combo Products"
+msgstr "combi producten"
+
+#: woo-combo-offers-pro.php:1341
+msgid "Combo products"
+msgstr "combi producten"
+
+#: woo-combo-offers-pro.php:1545
+msgid "Default quantity"
+msgstr "Standaard aantal"
+
+#: woo-combo-offers-pro.php:1425
+msgid "Disable auto calculate price?"
+msgstr "Automatische prijsberekening uitschakelen?"
+
+#: woo-combo-offers-pro.php:1429
+msgid "Discount"
+msgstr "Korting"
+
+#: woo-combo-offers-pro.php:1497
+msgid "Enable stock management at combo level?"
+msgstr "Voorraadbeheer op comboniveau inschakelen?"
+
+#: woo-combo-offers-pro.php:1720 woo-combo-offers-pro.php:1756
+msgid "From"
+msgstr "van"
+
+#. Author URI of the plugin
+msgid "https://www.wooextend.com"
+msgstr "https://www.wooextend.com"
+
+#. URI of the plugin
+msgid "https://www.wooextend.com/"
+msgstr "https://www.wooextend.com/"
+
+#: woo-combo-offers-pro.php:1425
+#, php-format
+msgid "If yes, %s click here to set price %s by manually."
+msgstr "Zo ja, %s klik hier om de prijs %s handmatig in te stellen."
+
+#: woo-combo-offers-pro.php:1368
+#, php-format
+msgid ""
+"If you like Combo Offers please leave us a %s rating. A huge thanks in "
+"advance!"
+msgstr ""
+"Als u combo offers leuk vindt, laat dan een %s-beoordeling achter. Bij "
+"voorbaat enorm bedankt!"
+
+#: woo-combo-offers-pro.php:1279
+msgid "Invalid product to use this tool!"
+msgstr ""
+"\n"
+"Ongeldig product om deze tool te gebruiken!"
+
+#: woo-combo-offers-pro.php:1456
+msgid "Limit of each item"
+msgstr "Limiet van elk item"
+
+#: woo-combo-offers-pro.php:1471
+msgid "Limit of whole items"
+msgstr "Limiet van alle items"
+
+#: woo-combo-offers-pro.php:1493
+msgid "Manage stock"
+msgstr "Beheer Voorraad"
+
+#: woo-combo-offers-pro.php:1253
+#, php-format
+msgid "No results found for \"%s\""
+msgstr "Geen resultaten gevonden voor \"%s\""
+
+#: woo-combo-offers-pro.php:571
+msgid "Once Every 5 Minutes"
+msgstr "Eén keer per 5 minuten"
+
+#: woo-combo-offers-pro.php:1448
+msgid "Optional products"
+msgstr "Optionele producten"
+
+#: woo-combo-offers-pro.php:729
+msgid ""
+"Please choose at least [min] in the whole products before adding this combo "
+"to the cart."
+msgstr ""
+"Kies minimaal [min] in het hele product voordat u deze combo aan de "
+"winkelwagen toevoegt."
+
+#: woo-combo-offers-pro.php:728
+msgid ""
+"Please choose at least one product before adding this combo to the cart."
+msgstr ""
+"Kies ten minste één product voordat u deze combinatie aan de winkelwagen "
+"toevoegt."
+
+#: woo-combo-offers-pro.php:730
+msgid ""
+"Please choose maximum [max] in the whole products before adding this combo "
+"to the cart."
+msgstr ""
+"Kies maximaal [max] voor alle producten voordat u deze combinatie aan de "
+"winkelwagen toevoegt."
+
+#: woo-combo-offers-pro.php:727
+msgid ""
+"Please select some product options before adding this combo to the cart."
+msgstr ""
+"Selecteer enkele productopties voordat u deze combinatie aan de winkelwagen "
+"toevoegt."
+
+#: woo-combo-offers-pro.php:764
+msgid "Premium Version"
+msgstr "Premium Version"
+
+#: woo-combo-offers-pro.php:75
+msgid "Read more"
+msgstr "Lees  verder"
+
+#: woo-combo-offers-pro.php:1415
+msgid "Regular price"
+msgstr "Normale prijs"
+
+#: woo-combo-offers-pro.php:1542
+msgid "Remove"
+msgstr "verwijderen"
+
+#: woo-combo-offers-pro.php:737
+msgid "saved"
+msgstr "Opgeslagen"
+
+#: woo-combo-offers-pro.php:1376
+msgid "searching..."
+msgstr "Zoeken...."
+
+#: woo-combo-offers-pro.php:69
+msgid "Select options"
+msgstr "Selecteer opties"
+
+#: woo-combo-offers-pro.php:1371
+msgid "Select product"
+msgstr "Selecteer product"
+
+#: woo-combo-offers-pro.php:1384
+msgid "Selected"
+msgstr "geselecteerd"
+
+#: woo-combo-offers-pro.php:1484
+msgid "Shipping fee"
+msgstr "Verzendkosten"
+
+#: woo-combo-offers-pro.php:1777
+#, php-format
+msgid ""
+"The combo \"%s\" could not be added to your cart from order again button. "
+"Please buy it directly."
+msgstr ""
+"\n"
+"De combinatie \"%s\" kon niet aan uw winkelwagen worden toegevoegd via de "
+"knop 'Opnieuw bestellen'. Koop het dan direct."
+
+#: woo-combo-offers-pro.php:1514
+msgid "The text after combo products"
+msgstr "De tekst na comboproducten"
+
+#: woo-combo-offers-pro.php:1505
+msgid "The text before combo products"
+msgstr "De tekst voor comboproducten"
+
+#: woo-combo-offers-pro.php:1282
+msgid "This box content just appears after you publish the product."
+msgstr "Deze boxinhoud verschijnt pas nadat u het product heeft gepubliceerd."
+
+#: woo-combo-offers-pro.php:1378
+msgid "Type any keyword to search"
+msgstr ""
+"\n"
+"Typ een trefwoord om te zoeken"
+
+#: woo-combo-offers-pro.php:1275
+msgid "Update Price"
+msgstr "Prijs bijwerken"
+
+#: woo-combo-offers-pro.php:1272
+msgid ""
+"Update price for all combos contains this product. The progress time based "
+"on the number of your combos."
+msgstr ""
+"Updateprijs voor alle combo's bevat dit product. De voortgangstijd is "
+"gebaseerd op het aantal combo's"
+
+#: woo-combo-offers-pro.php:1467
+msgid "Use default quantity as min?"
+msgstr "Standaardhoeveelheid gebruiken als minimum?"
+
+#. Name of the plugin
+msgid "WooCommerce Combo Offers Pro"
+msgstr "WooCommerce Combo Offers Pro"
+
+#. Description of the plugin
+msgid ""
+"WooCommerce Combo Offers Pro enables administrator to offer combo deals on "
+"their product!"
+msgstr ""
+"Met WooCommerce Combo Offers Pro kan de beheerder combo-deals voor zijn "
+"product aanbieden!"
+
+#: woo-combo-offers-pro.php:777
+msgid "Woocommerce Expert"
+msgstr "Woocommerce Expert"
+
+#. Author of the plugin
+msgid "WooExtend"
+msgstr "WooExtend"
+
+#: woo-combo-offers-pro.php:1259
+msgid "WooExtend Combo Offers"
+msgstr "WooExtend Combo Offers"

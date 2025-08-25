@@ -1,0 +1,1 @@
+(n=>{"use strict";n.body.tfOn("click",(t=>{const c=t.target&&!t.target.closest("a")?t.target.closest("[data-tb_link]"):null;if(c){t.preventDefault();const a=n.createElement("a");a.href=c.dataset.tb_link,c.dataset.tb_link_new&&(a.target="_blank"),a.style.display="none",n.body.appendChild(a),a.click(),a.remove()}}))})(document);

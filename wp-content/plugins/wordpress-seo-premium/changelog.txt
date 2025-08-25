@@ -1,0 +1,6 @@
+*** Yoast SEO premium Changelog ***
+
+
+2025-08-13 - version 25.7.1
+* fix -  Fixes a bug where deprecation warning would be thrown when `WP_DEBUG` is enabled and a site is on PHP 8.1 or newer.
+

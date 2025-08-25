@@ -1,0 +1,1 @@
+.ui.module-accordion.transparent{border:0}.ui.module-accordion.transparent>:is(li,li.builder-accordion-active),.ui.module-accordion.transparent>li>.accordion-content{background:0;border:0;box-shadow:none}.ui.module-accordion.transparent>li>:is(.accordion-title,.accordion-content){color:inherit}ul.ui.transparent>li>.accordion-title a{padding-inline:0}

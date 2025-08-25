@@ -1,0 +1,124 @@
+# EXTENSIONS
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.swp
+*.t3x
+*.tar.gz
+*.tar
+*.zip
+*.ini
+*.sql
+
+# TEMPORAL FILES
+################
+/tmp/
+.tmp_*
+
+# PROJECT FOLDERS
+#################
+/log/
+/db/dumps/
+.tmb
+
+# WORDPRESS
+###########
+/wp-config.php
+/*-local-config.php
+/wp-content/uploads/
+/wp-content/upgrade/
+/wp-content/backup*
+/wp-content/ewww
+/wp-content/cache/*
+/wp-content/plugins/tenweb*
+/wp-content/mu-plugins/*
+/wp-content/edoscta/estados_cuenta/*
+/wp-content/edoscta/xmls/*
+/wp-content/wflogs/*
+/wp-content/wpvividbackups/*
+wp-content/ai1wm-backups/*
+/sitemap.xml
+/sitemap_index.xml
+/sitemap.xml.gz
+
+/wp-content/plugins/query-monitor/
+
+/wp-content/plugins/wp-all-import*
+/wp-content/plugins/wp-all-export*
+/wp-content/plugins/wordpress-importer/
+
+# CACHE UNTRACKED FILES AND PLUGINS
+# #################################
+/wp-content/advanced-cache.php
+/wp-content/autoptimize_404_handler.php
+/wp-content/db.php
+/wp-content/object-cache.php
+/wp-content/cache/
+/wp-content/et-cache/
+/wp-content/plugins/w3-total-cache/
+/wp-content/w3tc-config/
+/wp-content/wp-rocket-config/
+/wp-content/plugins/nginx-helper
+/wp-content/plugins/wp-optimize
+
+# COMMON FILES
+##############
+/_old/
+/bin/dev*
+/robots.txt
+#/.htaccess
+/.maintenance
+/nginx.conf
+/readme.d324e40b0411881edd1b5f8c4a40841a.html
+/error_log
+error_log
+*/error_log
+## OS GENERATED FILES
+#####################
+.DS_Store
+.DS_Store?
+.localized
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+[Tt]humbs.db
+sftp-config.json
+.well-known
+.bash*
+.vi*
+.vscode
+.idea
+.php-ini
+.php-version
+.devilbox
+
+
+# LOGS, DATABASES AND MISC
+# ########################
+*.log
+*.sqlite
+*.sass-cache
+/web/wp-content/plugins/easy-wp-smtp/logs/
+
+
+# PLESK
+#######
+/plesk-stat/
+
+# VERIFICATIONS
+###############
+/web/google*
+/web/siteaudit-*.txt
+*.pdf
+*.xml
+
+
+
+#Folders 
+/api-prod.ferredescuentos.com
+/api.ferredescuentos.com
+/backend.ferredescuentos.com

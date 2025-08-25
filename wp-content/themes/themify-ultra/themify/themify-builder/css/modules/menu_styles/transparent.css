@@ -1,0 +1,1 @@
+.module .nav.transparent li,.module .nav.transparent>li:is(.current_page_item,.current-menu-item,:active)>a,.module .nav.transparent>li>:is(a,a:hover){background:0;border:0;box-shadow:none}.nav.transparent .sub-menu{--tb_app_r:8px;--tb_pr_hover_bg:#f1f1f1;--tb_pr_bg:#fff}.nav.transparent{--tb_pr_color:#555}.module-menu .nav.transparent ul a{color:#555}

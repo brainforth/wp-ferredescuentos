@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <symbol id="vertical" viewBox="0 0 16 16">
+      <path fill="currentColor" d="M3 3h10v4H3zm0 6h10v4H3z"/>
+    </symbol>
+    <symbol id="horizontal" viewBox="0 0 16 16">
+      <path fill="currentColor" d="M0 6h7v4H0zm9 0h7v4H9z"/>
+    </symbol>
+    <symbol id="normal" viewBox="0 0 16 16">
+      <path fill="currentColor" d="M11.36 1.58v9.98L4.57 1.58H3v12.84h1.64V4.3l6.89 10.12H13V1.58h-1.64z"/>
+    </symbol>
+    <symbol id="baseline" viewBox="0 0 16 16">
+      <path fill="currentColor" d="M0 14h16v1H0zm5.49-5.05h5.04l1.21 3.38h1.61L8.89 0H7.11L2.65 12.33h1.6l1.24-3.38Zm2.52-7.39 2.1 5.94H5.89l2.12-5.94Z"/>
+    </symbol>
+    <symbol id="ac-start" viewBox="0 0 16 16">
+      <path fill="currentColor" d="M0 0h16v1H0zm3 3h10v3H3zm0 5h10v3H3z"/>
+    </symbol>
+    <symbol id="ac-center" viewBox="0 0 16 16">
+      <path fill="currentColor" d="M0 8h16v1H0zm3-5h10v3H3zm0 8h10v3H3z"/>
+    </symbol>
+    <symbol id="ac-end" viewBox="0 0 16 16">
+      <path fill="currentColor" d="M0 15h16v1H0zm3-5h10v3H3zm0-5h10v3H3z"/>
+    </symbol>
+    <symbol id="ac-space-around" viewBox="0 0 16 16">
+      <path fill="currentColor" d="M0 0h16v1H0zm0 15h16v1H0zM3 3h10v3H3zm0 7h10v3H3z"/>
+    </symbol>
+    <symbol id="ac-space-between" viewBox="0 0 16 16">
+      <path fill="currentColor" d="M0 0v1h3v3h10V1h3V0H0zm13 12H3v3H0v1h16v-1h-3v-3z"/>
+    </symbol>
+    <symbol id="ac-space-evenly" viewBox="0 0 16 16">
+      <path fill="currentColor" d="M0 0h16v1H0zm0 15h16v1H0zM3 4h10v3H3zm0 5h10v3H3z"/>
+    </symbol>
+    <symbol id="ac-stretch" viewBox="0 0 16 16">
+      <path fill="currentColor" d="M0 0v1h3v5h10V1h3V0H0zm13 10H3v5H0v1h16v-1h-3v-5z"/>
+    </symbol>
+    <symbol id="ai-start" viewBox="0 0 16 16">
+      <path fill="currentColor" d="M0 0v1h4v8h3V1h2v10h3V1h4V0H0z"/>
+    </symbol>
+    <symbol id="ai-center" viewBox="0 0 16 16">
+      <path fill="currentColor" d="M16 8h-4V3H9v5H7V4H4v4H0v1h4v4h3V9h2v5h3V9h4V8z"/>
+    </symbol>
+    <symbol id="ai-end" viewBox="0 0 16 16">
+      <path fill="currentColor" d="M12 15V7H9v8H7V5H4v10H0v1h16v-1h-4z"/>
+    </symbol>
+    <symbol id="ai-stretch" viewBox="0 0 16 16">
+      <path fill="currentColor" d="M16 1V0H0v1h4v14H0v1h16v-1h-4V1h4ZM9 15H7V1h2v14Z"/>
+    </symbol>
+    <symbol id="jc-start" viewBox="0 0 16 16">
+      <path fill="currentColor" d="M0 0h1v16H0zm8 3h3v10H8zM3 3h3v10H3z"/>
+    </symbol>
+    <symbol id="jc-center" viewBox="0 0 16 16">
+      <path fill="currentColor" d="M8 0h1v16H8zM3 3h3v10H3zm8 0h3v10h-3z"/>
+    </symbol>
+    <symbol id="jc-end" viewBox="0 0 16 16">
+      <path fill="currentColor" d="M15 0h1v16h-1zM5 3h3v10H5zm5 0h3v10h-3z"/>
+    </symbol>
+    <symbol id="jc-space-between" viewBox="0 0 16 16">
+      <path fill="currentColor" d="M15 0v3h-3v10h3v3h1V0h-1zM1 0H0v16h1v-3h3V3H1V0z"/>
+    </symbol>
+    <symbol id="jc-space-around" viewBox="0 0 16 16">
+      <path fill="currentColor" d="M15 0h1v16h-1zM0 0h1v16H0zm2 3h3v10H2zm9 0h3v10h-3z"/>
+    </symbol>
+    <symbol id="jc-space-evenly" viewBox="0 0 16 16">
+      <path fill="currentColor" d="M15 0h1v16h-1zM0 0h1v16H0zm4 3h3v10H4zm5 0h3v10H9z"/>
+    </symbol>
+    <symbol id="jc-stretch" viewBox="0 0 256 256">
+      <path fill="currentColor" d="M240 256h16V0h-16v64H16V0H0v256h16v-64h224zM16 144v-32h224v32z"/>
+    </symbol>
+    <symbol id="ji-start" viewBox="0 0 16 16">
+      <path fill="currentColor" d="M1 7h5V4H1V0H0v16h1v-4h6V9H1V7zm15 2h-6V7h5V4h-5V0H9v16h1v-4h6V9z"/>
+    </symbol>
+    <symbol id="ji-center" viewBox="0 0 16 16">
+      <path fill="currentColor" d="M4 7h2V4H4V0H3v4H1v3h2v2H0v3h3v4h1v-4h3V9H4V7zm12 2h-3V7h2V4h-2V0h-1v4h-2v3h2v2H9v3h3v4h1v-4h3V9z"/>
+    </symbol>
+    <symbol id="ji-end" viewBox="0 0 16 16">
+      <path fill="currentColor" d="M15 0v4H9v3h6v2h-5v3h5v4h1V0h-1zM6 4H0v3h6v2H1v3h5v4h1V0H6v4z"/>
+    </symbol>
+    <symbol id="ji-stretch" viewBox="0 0 16 16">
+      <path fill="currentColor" d="M15 0v4H9v3h6v2H9v3h6v4h1V0h-1zM1 0H0v16h1v-4h6V9H1V7h6V4H1V0z"/>
+    </symbol>
+  </defs>
+</svg>

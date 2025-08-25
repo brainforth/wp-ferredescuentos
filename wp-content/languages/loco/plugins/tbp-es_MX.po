@@ -1,0 +1,2563 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Themify Builder Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-16 19:37+0000\n"
+"PO-Revision-Date: 2024-06-16 19:37+0000\n"
+"Last-Translator: \n"
+"Language-Team: Español de México\n"
+"Language: es_MX\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.10; wp-6.5.4\n"
+"X-Domain: tbp"
+
+#: includes/dynamic-content/PTBFile.php:61
+#: includes/dynamic-content/PTBAcc.php:57
+#: includes/dynamic-content/PTBVideo.php:64
+#: includes/dynamic-content/PTBAudio.php:62
+#: includes/dynamic-content/PTBGalleryAsText.php:63
+msgid "# Item"
+msgstr ""
+
+#: includes/i18n.php:50
+#, php-format
+msgid "%s Comments"
+msgstr ""
+
+#: templates/wc/rating.php:16 templates/wc/rating.php:27
+#, php-format
+msgid "%s customer review"
+msgstr ""
+
+#: admin/class-tbp-admin.php:161
+#, php-format
+msgid "%s Templates"
+msgstr ""
+
+#: admin/class-tbp-admin.php:162
+#, php-format
+msgid "%s Themes"
+msgstr ""
+
+#: includes/i18n.php:10
+msgid "%stock_count% available in stock"
+msgstr ""
+
+#: includes/i18n.php:9
+msgid "%stock_count% is replaced with the number of products in stock"
+msgstr ""
+
+#: admin/class-tbp-admin.php:146
+msgid "'>Pro Theme</a> First."
+msgstr ""
+
+#: modules/module-breadcrumbs.php:327
+msgid "404 Not Found"
+msgstr ""
+
+#: includes/i18n.php:23 includes/class-tbp-templates.php:121
+msgid "404 Page"
+msgstr ""
+
+#: includes/dynamic-content/ACFChoice.php:17
+msgid "ACF (Choice Fields)"
+msgstr ""
+
+#: includes/dynamic-content/ACFDate.php:21
+msgid "ACF (Date & Time)"
+msgstr ""
+
+#: includes/dynamic-content/ACFEmail.php:21
+msgid "ACF (Email)"
+msgstr ""
+
+#: includes/dynamic-content/ACFFile.php:21
+msgid "ACF (File)"
+msgstr ""
+
+#: includes/dynamic-content/ACFGallery.php:21
+msgid "ACF (Gallery)"
+msgstr ""
+
+#: includes/dynamic-content/ACFImage.php:21
+msgid "ACF (Image)"
+msgstr ""
+
+#: includes/dynamic-content/ACFMap.php:17
+msgid "ACF (Map)"
+msgstr ""
+
+#: includes/dynamic-content/ACFNumber.php:21
+msgid "ACF (Number)"
+msgstr ""
+
+#: includes/dynamic-content/ACFoEmbed.php:21
+msgid "ACF (oEmbed)"
+msgstr ""
+
+#: includes/dynamic-content/ACFPageLink.php:21
+msgid "ACF (Page Link)"
+msgstr ""
+
+#: includes/dynamic-content/ACFText.php:17
+msgid "ACF (Text)"
+msgstr ""
+
+#: includes/dynamic-content/ACFTextarea.php:21
+msgid "ACF (Textarea)"
+msgstr ""
+
+#: includes/dynamic-content/ACFURL.php:21
+msgid "ACF (URL)"
+msgstr ""
+
+#: includes/dynamic-content/ACFWysiwyg.php:21
+msgid "ACF (Wysiwyg Editor)"
+msgstr ""
+
+#: includes/dynamic-query/acf.php:32
+msgid "ACF Context"
+msgstr ""
+
+#: includes/dynamic-query/acf.php:18
+msgid "ACF Pro Relational"
+msgstr ""
+
+#: includes/dynamic-query/acf.php:26
+msgid "ACF Relational Field"
+msgstr ""
+
+#: modules/module-acf-repeater.php:24 templates/template-acf-repeater.php:107
+msgid "ACF Repeater"
+msgstr ""
+
+#: admin/partials/lightbox-tpl.php:22 admin/partials/lightbox-tpl.php:24
+#: admin/partials/lightbox-tpl.php:29
+#: admin/partials/tbp-admin-theme-page.php:76
+#: admin/partials/tbp-admin-theme-page.php:142
+msgid "Activate"
+msgstr ""
+
+#: includes/class-tbp-templates.php:153 includes/class-tbp-templates.php:856
+msgid "Active"
+msgstr ""
+
+#: admin/partials/tbp-admin-theme-page.php:67
+msgid "Active:"
+msgstr ""
+
+#: includes/class-tbp-templates.php:781
+msgid "Add Condition"
+msgstr ""
+
+#: includes/class-tbp-themes.php:341
+msgid "Add Image"
+msgstr ""
+
+#: admin/partials/tbp-admin-theme-page.php:34
+msgid "Add New"
+msgstr ""
+
+#: includes/class-tbp-templates.php:66
+msgctxt "add new on admin bar"
+msgid "Template"
+msgstr ""
+
+#: includes/class-tbp-themes.php:50
+msgctxt "add new on admin bar"
+msgid "Theme"
+msgstr ""
+
+#: includes/class-tbp-templates.php:68
+msgid "Add New Template"
+msgstr ""
+
+#: includes/class-tbp-themes.php:52 admin/partials/tbp-admin-theme-page.php:93
+msgid "Add New Theme"
+msgstr ""
+
+#: includes/i18n.php:88
+msgid "Additional information"
+msgstr ""
+
+#: includes/class-tbp-templates.php:65
+msgctxt "admin menu"
+msgid "Templates"
+msgstr ""
+
+#: includes/class-tbp-themes.php:49
+msgctxt "admin menu"
+msgid "Themes"
+msgstr ""
+
+#: includes/i18n.php:174
+msgid "Advanced Custom Fields"
+msgstr ""
+
+#: modules/module-advanced-posts.php:15
+msgid "Advanced Posts"
+msgstr ""
+
+#: modules/module-advanced-products.php:15
+msgid "Advanced Products"
+msgstr ""
+
+#: includes/class-tbp-templates.php:785 includes/class-tbp-templates.php:837
+#: admin/partials/lightbox-tpl.php:38 admin/partials/lightbox-tpl.php:38
+#: admin/partials/lightbox-tpl.php:40
+#: includes/dynamic-query/ptbSubmission.php:35
+msgid "All"
+msgstr ""
+
+#: includes/dynamic-query/tep.php:25
+msgid "All Events"
+msgstr ""
+
+#: includes/class-tbp-templates.php:72 includes/class-tbp-templates.php:153
+msgid "All Templates"
+msgstr ""
+
+#: includes/class-tbp-themes.php:56
+msgid "All Themes"
+msgstr ""
+
+#: includes/i18n.php:42
+msgid ""
+"Allow site visitors to change the order of comments. Option is displayed "
+"above the comments."
+msgstr ""
+
+#: includes/class-tbp-themes.php:336
+msgid "An error occurred: %error%"
+msgstr ""
+
+#: includes/dynamic-content/PostAuthorMeta.php:34
+msgid ""
+"Any user meta field can be displayed. To display user Biographical Info, set "
+"this option to <code>description</code>."
+msgstr ""
+
+#: includes/i18n.php:135
+msgid "Approved"
+msgstr ""
+
+#: includes/dynamic-query/ptbSubmission.php:33
+msgid "Approved Posts"
+msgstr ""
+
+#: admin/class-tbp-admin.php:214 includes/class-tbp-templates.php:104
+msgid "Archive"
+msgstr ""
+
+#: modules/module-archive-image.php:14
+msgid "Archive Cover Image"
+msgstr ""
+
+#: modules/module-archive-description.php:14
+#: includes/dynamic-content/ArchiveDescription.php:13
+msgid "Archive Description"
+msgstr ""
+
+#: templates/template-archive-description.php:47
+msgid "Archive description"
+msgstr ""
+
+#: modules/module-archive-posts.php:13
+msgid "Archive Posts"
+msgstr ""
+
+#: modules/module-archive-products.php:17
+msgid "Archive Products"
+msgstr ""
+
+#: modules/module-archive-title.php:15 templates/template-archive-image.php:30
+#: includes/dynamic-content/ArchiveTitle.php:13
+msgid "Archive Title"
+msgstr ""
+
+#: includes/class-tbp-templates.php:117 includes/class-tbp-templates.php:140
+#: modules/module-breadcrumbs.php:328
+msgid "Archives"
+msgstr ""
+
+#: includes/class-tbp-themes.php:342
+msgid ""
+"Are you sure you want to delete this theme? All associated templates will be "
+"deleted as well.\n"
+"\n"
+"Click 'Cancel' to go back, 'OK' to confirm the delete."
+msgstr ""
+
+#: includes/class-tbp-templates.php:800
+msgid "Associated Theme"
+msgstr ""
+
+#: includes/dynamic-content/PTBAudio.php:56
+msgid "Audio File URL"
+msgstr ""
+
+#: includes/class-tbp-templates.php:183
+msgid "Author"
+msgstr ""
+
+#: includes/class-tbp-templates.php:124
+msgid "Author Archive"
+msgstr ""
+
+#: includes/dynamic-content/PostAuthorURL.php:34
+msgid "Author Archive Page"
+msgstr ""
+
+#: modules/module-author-info.php:14
+msgid "Author Info"
+msgstr ""
+
+#: includes/i18n.php:16
+msgid "Author Link"
+msgstr ""
+
+#: includes/i18n.php:191 includes/dynamic-query/acf.php:37
+msgid "Author of current post"
+msgstr ""
+
+#: includes/i18n.php:17
+msgid "Author's Website"
+msgstr ""
+
+#: includes/i18n.php:31
+msgid ""
+"Auto generate a trimmed-down version of the full post content when there is "
+"no explicit excerpt entered."
+msgstr ""
+
+#: includes/i18n.php:100
+msgid "Autocomplete"
+msgstr ""
+
+#: includes/i18n.php:43
+msgid "Avatars"
+msgstr ""
+
+#: admin/partials/lightbox-tpl.php:7
+msgid "Back"
+msgstr ""
+
+#: includes/class-tbp-templates.php:316
+msgid "Backend"
+msgstr ""
+
+#: includes/i18n.php:70
+msgid "Badge Position"
+msgstr ""
+
+#: admin/class-tbp-admin.php:139
+msgid "Blank"
+msgstr ""
+
+#: modules/module-breadcrumbs.php:33
+msgid "Breadcrumbs"
+msgstr ""
+
+#: modules/module-breadcrumbs.php:325
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: includes/i18n.php:32
+msgid "Bubble"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Build custom WordPress themes and templates (header, footer, post/page "
+"templates, etc.) using Themify Builder."
+msgstr ""
+
+#: includes/i18n.php:68
+msgid "Builder Content"
+msgstr ""
+
+#: modules/module-add-to-cart.php:19
+msgctxt "Builder Pro module name"
+msgid "Add To Cart"
+msgstr ""
+
+#: themify-builder-pro.php:71
+#, php-format
+msgid ""
+"Builder Pro plugin requires <a href=\"%s\">Themify framework</a>, or the "
+"free <a href=\"%s\">Themify Builder plugin</a>."
+msgstr ""
+
+#: admin/class-tbp-admin.php:174 admin/class-tbp-admin.php:187
+msgid "Builder Pro Templates"
+msgstr ""
+
+#: admin/partials/tbp-admin-theme-page.php:127
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: admin/partials/tbp-admin-theme-page.php:37
+msgid ""
+"Can't add themes because 'DISALLOW_FILE_MODS' is defined on your WordPress "
+"config file 'wp-config.php'"
+msgstr ""
+
+#: includes/i18n.php:47
+msgid "Caption Layout"
+msgstr ""
+
+#: templates/template-cart-icon.php:65
+msgid "Cart"
+msgstr ""
+
+#: modules/module-cart-icon.php:17
+msgid "Cart Icon"
+msgstr ""
+
+#: includes/i18n.php:36
+msgid "Cart Panel"
+msgstr ""
+
+#: includes/class-tbp-templates.php:141
+msgid "Categories"
+msgstr ""
+
+#: includes/i18n.php:77
+msgid "Category Label"
+msgstr ""
+
+#: includes/dynamic-content/PTBText.php:57
+msgid "Character to separate items in repeatable Text fields."
+msgstr ""
+
+#: includes/dynamic-content/ACFChoice.php:44
+msgid "Character to separate items when multiple choice is allowed."
+msgstr ""
+
+#: includes/dynamic-content/PTBCheckbox.php:46
+msgid "Character to separate items when multiple options are selected."
+msgstr ""
+
+#: includes/class-tbp-templates.php:122
+msgid "Child of"
+msgstr ""
+
+#: includes/dynamic-query/childs.php:10
+msgid "Children of current post"
+msgstr ""
+
+#: includes/dynamic-content/ACFMap.php:58
+msgid "City"
+msgstr ""
+
+#: includes/i18n.php:170
+msgid ""
+"Click the Edit Template button to customize this module. Then enable Dynamic "
+"option."
+msgstr ""
+
+#: admin/partials/tbp-admin-theme-page.php:111
+msgid "Close overlay"
+msgstr ""
+
+#: includes/i18n.php:163
+msgid "Comma-separated list of taxonomy term IDs to exclude."
+msgstr ""
+
+#: includes/dynamic-content/PostCommentCount.php:17
+msgid "Comment Count"
+msgstr ""
+
+#. %s is the page number.
+#: modules/module-breadcrumbs.php:334
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#: modules/module-comments.php:15
+msgid "Comments"
+msgstr ""
+
+#: includes/i18n.php:45
+msgid "Comments - Even"
+msgstr ""
+
+#: includes/i18n.php:46
+msgid "Comments - Same Author"
+msgstr ""
+
+#: includes/class-tbp-templates.php:182
+msgid "Conditions"
+msgstr ""
+
+#: includes/dynamic-content/SiteIcon.php:33
+#, php-format
+msgid ""
+"Configured in <a href=\"%s\" target=\"_blank\">Customizer</a> > Site "
+"Identity tab."
+msgstr ""
+
+#: includes/i18n.php:18
+msgid "Container Tag"
+msgstr ""
+
+#: includes/i18n.php:187
+msgid "Context"
+msgstr ""
+
+#: includes/dynamic-content/ACFMap.php:60
+msgid "Country"
+msgstr ""
+
+#: includes/i18n.php:169
+msgid "Cover Image"
+msgstr ""
+
+#: includes/dynamic-content/CurrentDate.php:17
+msgid "Current Date & Time"
+msgstr ""
+
+#: includes/i18n.php:190 includes/dynamic-query/acf.php:36
+msgid "Current logged-in user"
+msgstr ""
+
+#: includes/i18n.php:188 includes/dynamic-query/acf.php:34
+msgid "Current post"
+msgstr ""
+
+#: admin/partials/tbp-admin-theme-page.php:124
+msgid "Current Theme"
+msgstr ""
+
+#: includes/i18n.php:193
+msgid "Custom Context"
+msgstr ""
+
+#: includes/dynamic-content/EventPostDate.php:66
+msgid "Custom Date Format"
+msgstr ""
+
+#: includes/dynamic-content/CustomField.php:17
+msgid "Custom Field"
+msgstr ""
+
+#: includes/i18n.php:194
+#, php-format
+msgid ""
+"Custom post ID, or an object ID as expected by ACF (<a href=\"%s\" "
+"target=\"_blank\">ref</a>)."
+msgstr ""
+
+#: includes/dynamic-content/EventPostDate.php:88
+msgid "Custom Time Format"
+msgstr ""
+
+#: includes/i18n.php:108
+msgid "Custom URL"
+msgstr ""
+
+#: modules/module-breadcrumbs.php:824 modules/module-breadcrumbs.php:1229
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: admin/class-tbp-import-export.php:84
+msgid "Data is corrupted"
+msgstr ""
+
+#: includes/dynamic-content/CustomField.php:57
+msgid "Data Type"
+msgstr ""
+
+#: includes/class-tbp-templates.php:184
+#: includes/dynamic-content/CustomField.php:63
+msgid "Date"
+msgstr ""
+
+#: includes/class-tbp-templates.php:123
+msgid "Date Archive"
+msgstr ""
+
+#: includes/i18n.php:51
+msgid "Day"
+msgstr ""
+
+#: includes/i18n.php:55
+msgid "Day Font"
+msgstr ""
+
+#: admin/partials/tbp-admin-theme-page.php:74
+#: admin/partials/tbp-admin-theme-page.php:153
+msgid "Deactivate"
+msgstr ""
+
+#: includes/dynamic-content/PTBNumber.php:79
+#: includes/dynamic-content/CustomField.php:100
+msgid "Decimal Point"
+msgstr ""
+
+#: includes/dynamic-content/PTBNumber.php:69
+#: includes/dynamic-content/CustomField.php:90
+msgid "Decimals"
+msgstr ""
+
+#: admin/partials/tbp-admin-theme-page.php:158
+msgid "Delete"
+msgstr ""
+
+#: includes/i18n.php:179
+msgid "Display Condition"
+msgstr ""
+
+#: includes/class-tbp-templates.php:794
+msgid "Display Conditions"
+msgstr ""
+
+#: includes/i18n.php:157
+msgid "Display Inside Term"
+msgstr ""
+
+#: includes/i18n.php:25
+msgid "Div"
+msgstr ""
+
+#: admin/class-tbp-admin.php:138
+msgid "Done"
+msgstr ""
+
+#: admin/class-tbp-admin.php:131
+msgid "Download failed: %post%."
+msgstr ""
+
+#: admin/class-tbp-admin.php:127
+msgid "Downloading image (%from%/%to%):"
+msgstr ""
+
+#: includes/class-tbp-templates.php:846
+msgid "Draft"
+msgstr ""
+
+#: includes/class-tbp-dynamic-content.php:602
+msgid "Dynamic"
+msgstr ""
+
+#: includes/class-tbp-dynamic-query.php:66
+msgid "Dynamic Query"
+msgstr ""
+
+#: admin/partials/tbp-admin-theme-page.php:80
+#: admin/partials/tbp-admin-theme-page.php:146
+msgid "Edit"
+msgstr ""
+
+#: admin/class-tbp-admin.php:76
+msgid "Edit Builder Content"
+msgstr ""
+
+#: includes/class-tbp-templates.php:70 includes/class-tbp-templates.php:779
+#: includes/class-tbp.php:92
+msgid "Edit Template"
+msgstr ""
+
+#: admin/class-tbp-admin.php:80
+msgid "Edit Templates"
+msgstr ""
+
+#: templates/template-acf-repeater.php:109
+msgid "Edit the module to select the ACF Repeater field"
+msgstr ""
+
+#: templates/template-ptb-repeater.php:104
+msgid "Edit the module to select what Repeater field from PTB will be shown."
+msgstr ""
+
+#: includes/class-tbp-themes.php:54 includes/class-tbp-themes.php:339
+msgid "Edit Theme"
+msgstr ""
+
+#: templates/wc/shopdock.php:56
+#, php-format
+msgid "El carrito esta vacío. Ir a <a href=\"%s\">Catálogo</a>"
+msgstr ""
+
+#: includes/i18n.php:29
+msgid "Ellipsis"
+msgstr ""
+
+#: includes/class-tbp-dynamic-content.php:603
+msgid "Empty Value"
+msgstr ""
+
+#: templates/wc/shopdock.php:20
+msgid "Enable it on WooCommerce settings"
+msgstr ""
+
+#: includes/dynamic-content/CustomField.php:86
+msgid "Enable parsing shortcodes on the custom field value."
+msgstr ""
+
+#: includes/dynamic-content/CustomField.php:82
+msgid "Enable Shortcodes"
+msgstr ""
+
+#: includes/dynamic-query/tep.php:37
+msgid "End Date"
+msgstr ""
+
+#: includes/i18n.php:105
+msgid ""
+"Enter a comma-separated list of keywords, these will show below the form."
+msgstr ""
+
+#: includes/class-tbp-templates.php:116
+msgid "Entire Site"
+msgstr ""
+
+#: admin/partials/tbp-admin-theme-page.php:161
+msgid "Erase Demo"
+msgstr ""
+
+#: includes/class-tbp-themes.php:335
+msgid "Erasing complete"
+msgstr ""
+
+#: includes/class-tbp-themes.php:334
+msgid "Erasing... "
+msgstr ""
+
+#: includes/dynamic-query/tep.php:33
+msgid "Event Order"
+msgstr ""
+
+#: includes/dynamic-query/tep.php:23
+msgid "Event Status"
+msgstr ""
+
+#: includes/class-tbp-templates.php:784
+msgid "Exclude"
+msgstr ""
+
+#: includes/i18n.php:162
+msgid "Exclude Terms"
+msgstr ""
+
+#: includes/class-tbp-templates.php:323 includes/class-tbp-templates.php:906
+#: admin/partials/tbp-admin-theme-page.php:148
+msgid "Export"
+msgstr ""
+
+#: includes/class-tbp-themes.php:349
+msgid "Exporting Templates of Theme (%from%/%to%): %post%"
+msgstr ""
+
+#: includes/class-tbp-templates.php:786
+msgid "Exporting Templates(%from%/%to%): %post%"
+msgstr ""
+
+#: includes/class-tbp-themes.php:348
+msgid "Exporting Theme: %post%"
+msgstr ""
+
+#: admin/class-tbp-admin.php:129
+msgid "Failed import. Skipping import %post%"
+msgstr ""
+
+#: admin/class-tbp-admin.php:130
+msgid "Failed import: %post%"
+msgstr ""
+
+#: includes/class-tbp-templates.php:479
+msgid "Failed to update builder"
+msgstr ""
+
+#: includes/i18n.php:3
+msgid "Fallback Image"
+msgstr ""
+
+#: includes/i18n.php:185
+msgid "Fallback Value"
+msgstr ""
+
+#: includes/i18n.php:178
+msgid "Fax"
+msgstr ""
+
+#: modules/module-featured-image.php:14
+msgid "Featured Image"
+msgstr ""
+
+#: includes/i18n.php:200
+msgid "Featured Products"
+msgstr ""
+
+#: includes/i18n.php:151
+msgid "Field"
+msgstr ""
+
+#: includes/i18n.php:152
+msgid "Field Name"
+msgstr ""
+
+#: includes/dynamic-content/FileContent.php:17
+msgid "File Content"
+msgstr ""
+
+#: includes/dynamic-content/FileContent.php:40
+msgid "File Path"
+msgstr ""
+
+#: includes/dynamic-content/PTBFile.php:56
+msgid "File URL"
+msgstr ""
+
+#: includes/class-tbp-templates.php:102
+msgid "Footer"
+msgstr ""
+
+#: includes/dynamic-content/CurrentDate.php:53
+#: includes/dynamic-content/PTBDateAsText.php:89
+#: includes/dynamic-content/PostDate.php:54
+#: includes/dynamic-content/EventPostDate.php:42
+#, php-format
+msgid ""
+"For information on how to format date and time see <a href=\"%s\" "
+"target=\"_blank\">Codex</a>."
+msgstr ""
+
+#: includes/i18n.php:199
+msgid "Free Products"
+msgstr ""
+
+#: includes/dynamic-content/PTBNumber.php:63
+msgid "From"
+msgstr ""
+
+#: includes/class-tbp-templates.php:320
+msgid "Frontend"
+msgstr ""
+
+#: includes/i18n.php:26
+msgid "Full Content"
+msgstr ""
+
+#: includes/i18n.php:30
+msgid "Generated Excerpt"
+msgstr ""
+
+#: admin/partials/tbp-admin-theme-page.php:40
+msgid "Go to Templates"
+msgstr ""
+
+#: includes/dynamic-content/PTBRelations.php:198
+msgid "Grid Columns"
+msgstr ""
+
+#: includes/class-tbp-templates.php:101
+msgid "Header"
+msgstr ""
+
+#: modules/module-site-logo.php:220
+#, php-format
+msgid "Heading %s"
+msgstr ""
+
+#: modules/module-archive-title.php:205
+#: modules/module-product-description.php:226
+#: modules/module-site-tagline.php:220 modules/module-author-info.php:324
+#: modules/module-post-title.php:223 modules/module-product-title.php:228
+#, php-format
+msgid "Heading %s Font"
+msgstr ""
+
+#: includes/dynamic-content/PostAuthorAvatar.php:33
+msgid "Height and width of the avatar in pixels. Default is 96."
+msgstr ""
+
+#: includes/i18n.php:139
+msgid "Hide Empty"
+msgstr ""
+
+#: includes/i18n.php:83
+msgid "Hide On-Sale Regular Price"
+msgstr ""
+
+#: includes/dynamic-content/PTBRelations.php:234
+msgid "Hide Slider arrow buttons"
+msgstr ""
+
+#: includes/dynamic-content/PTBRelations.php:228
+msgid "Hide Slider Pagination"
+msgstr ""
+
+#: includes/i18n.php:181
+msgid "Hide the module"
+msgstr ""
+
+#: includes/i18n.php:183
+msgid "Hide the row"
+msgstr ""
+
+#: includes/i18n.php:182
+msgid "Hide the subrow"
+msgstr ""
+
+#: includes/i18n.php:22 modules/module-breadcrumbs.php:326
+msgid "Home"
+msgstr ""
+
+#: includes/class-tbp-templates.php:120
+msgid "Homepage"
+msgstr ""
+
+#: includes/class-tbp-templates.php:795
+msgid "Homepage Latest posts"
+msgstr ""
+
+#: includes/i18n.php:114
+msgid "Hook"
+msgstr ""
+
+#: modules/module-breadcrumbs.php:806
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: includes/i18n.php:197
+msgid "HTML"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://themify.me/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://themify.me/builder-pro"
+msgstr ""
+
+#: includes/dynamic-content/PTBRepeatableText.php:86
+msgid "Icon Color"
+msgstr ""
+
+#: includes/dynamic-content/PTBIconAsText.php:51
+msgid "Icon URL"
+msgstr ""
+
+#: includes/class-tbp-templates.php:798
+msgid ""
+"If multiple templates satisfy the same display conditions, assign a priority "
+"number to indicate precedence. A higher number indicates higher priority."
+msgstr ""
+
+#: includes/i18n.php:13
+msgid "Image Stack"
+msgstr ""
+
+#: includes/i18n.php:71
+msgid "Image Zoom"
+msgstr ""
+
+#: admin/class-tbp-admin.php:149
+msgid "Import"
+msgstr ""
+
+#: includes/class-tbp-themes.php:343
+msgid "Import Demo"
+msgstr ""
+
+#: admin/class-tbp-admin.php:140
+msgid "Import file doesn&apos;t contain Builder data"
+msgstr ""
+
+#: admin/class-tbp-admin.php:141
+msgid "Import file should be zip or text"
+msgstr ""
+
+#: admin/partials/lightbox-tpl.php:8
+msgid "Import Template"
+msgstr ""
+
+#: admin/partials/lightbox-tpl.php:8
+msgid "Import Theme"
+msgstr ""
+
+#: admin/class-tbp-admin.php:136
+msgid "Importing Global Styling"
+msgstr ""
+
+#: includes/class-tbp-themes.php:346
+msgid "Importing menu items (%from%/%to%): %post%"
+msgstr ""
+
+#: includes/class-tbp-themes.php:345
+msgid "Importing menus"
+msgstr ""
+
+#: includes/class-tbp-themes.php:347
+msgid "Importing Post (%from%/%to%): %post%"
+msgstr ""
+
+#: includes/class-tbp-themes.php:344
+msgid "Importing Taxonomy (%from%/%to%): %post%"
+msgstr ""
+
+#: admin/class-tbp-admin.php:133 admin/class-tbp-admin.php:135
+msgid "Importing Templates (%from%/%to%): %post%"
+msgstr ""
+
+#: admin/class-tbp-admin.php:134
+msgid "Importing Theme: %post%"
+msgstr ""
+
+#: includes/class-tbp-templates.php:136
+msgid "In Category"
+msgstr ""
+
+#: includes/class-tbp-templates.php:134
+msgid "In Product Category"
+msgstr ""
+
+#: includes/class-tbp-templates.php:135
+msgid "In Product Tag"
+msgstr ""
+
+#: includes/dynamic-content/PTBNumber.php:66
+msgid "In Range inputs, select to display the From value or To value."
+msgstr ""
+
+#: includes/i18n.php:62
+msgid "In Same Category"
+msgstr ""
+
+#: includes/i18n.php:7
+msgid "In Stock"
+msgstr ""
+
+#: includes/i18n.php:8
+msgid "In Stock Text"
+msgstr ""
+
+#: includes/class-tbp-templates.php:137
+msgid "In Tag"
+msgstr ""
+
+#: includes/class-tbp-templates.php:783
+msgid "Include"
+msgstr ""
+
+#: includes/dynamic-content/ProductGallery.php:50
+msgid "Include Variation Images"
+msgstr ""
+
+#: includes/i18n.php:40
+msgid "Inputs"
+msgstr ""
+
+#: includes/class-tbp-dynamic-content.php:637
+msgid "Invalid value."
+msgstr ""
+
+#: includes/dynamic-content/MediaLibrary.php:17
+msgid "Item from Media Library"
+msgstr ""
+
+#: includes/dynamic-content/ACFMap.php:54
+msgid "Lat"
+msgstr ""
+
+#: includes/i18n.php:158 templates/template-archive-title.php:45
+msgid "Latest Posts"
+msgstr ""
+
+#: includes/i18n.php:143
+msgid "Leave empty to count all users regardless of their role."
+msgstr ""
+
+#: includes/i18n.php:155
+msgid "Leave empty to get the data from current post in the loop."
+msgstr ""
+
+#: includes/i18n.php:154
+msgid "Leave empty to get the data from current product in the loop."
+msgstr ""
+
+#: includes/i18n.php:96
+msgid "Less than 1 minute"
+msgstr ""
+
+#: includes/dynamic-content/PTBLinkButton.php:53
+msgid "Link Title"
+msgstr ""
+
+#: includes/dynamic-content/PTBLinkButton.php:54
+msgid "Link URL"
+msgstr ""
+
+#: includes/dynamic-content/ACFMap.php:55
+msgid "Lng"
+msgstr ""
+
+#: templates/partials/pagination.php:8
+msgid "Load More"
+msgstr ""
+
+#: includes/i18n.php:110
+msgid "Logo Image"
+msgstr ""
+
+#: includes/i18n.php:109
+msgid "Logo Text"
+msgstr ""
+
+#: includes/i18n.php:66
+msgid "Long Description"
+msgstr ""
+
+#: includes/dynamic-query/on.php:11
+msgid "Main Query"
+msgstr ""
+
+#: includes/i18n.php:20
+msgid "Main Site Link"
+msgstr ""
+
+#: includes/dynamic-query/sameauthor.php:19
+msgid "Match Current Post Type"
+msgstr ""
+
+#: includes/dynamic-content/RandomNumber.php:33
+msgid "Maximum"
+msgstr ""
+
+#: includes/class-tbp-themes.php:356
+msgid "Maximum upload file size: %d MB."
+msgstr ""
+
+#: includes/class-tbp-templates.php:126
+msgid "Media"
+msgstr ""
+
+#: includes/dynamic-content/PTBRelations.php:267
+msgid "Menu Order"
+msgstr ""
+
+#: includes/dynamic-content/PostAuthorMeta.php:31
+msgid "Meta Key"
+msgstr ""
+
+#: includes/dynamic-content/RandomNumber.php:28
+msgid "Minimum"
+msgstr ""
+
+#. Minute archive title. %s is the minute time format.
+#: modules/module-breadcrumbs.php:336
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: modules/module-breadcrumbs.php:771
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: modules/module-breadcrumbs.php:789
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: includes/i18n.php:97
+msgid "Minutes"
+msgstr ""
+
+#: includes/i18n.php:138
+msgid "Moderated"
+msgstr ""
+
+#: includes/class-tbp.php:93
+#, php-format
+msgid "Module %s has been saved"
+msgstr ""
+
+#: includes/i18n.php:52
+msgid "Month"
+msgstr ""
+
+#: includes/i18n.php:54
+msgid "Month Font"
+msgstr ""
+
+#: modules/module-breadcrumbs.php:823 modules/module-breadcrumbs.php:879
+#: modules/module-breadcrumbs.php:1225
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: includes/class-tbp-utils.php:390
+msgid "More &rarr;"
+msgstr ""
+
+#: includes/class-tbp-templates.php:793
+msgid "Name"
+msgstr ""
+
+#: includes/i18n.php:24
+msgid "Nav"
+msgstr ""
+
+#: templates/template-comments.php:65
+msgid "New Comments First"
+msgstr ""
+
+#: includes/class-tbp-templates.php:69 includes/class-tbp-templates.php:446
+#: includes/class-tbp-templates.php:780
+msgid "New Template"
+msgstr ""
+
+#: includes/class-tbp-themes.php:53 includes/class-tbp-themes.php:83
+#: includes/class-tbp-themes.php:340
+msgid "New Theme"
+msgstr ""
+
+#: includes/i18n.php:38
+msgid "Newer Comments First"
+msgstr ""
+
+#: includes/i18n.php:120
+msgid "Newer Entries"
+msgstr ""
+
+#: admin/partials/lightbox-tpl.php:23
+msgid "Next"
+msgstr ""
+
+#: includes/i18n.php:61
+msgid "Next Arrow"
+msgstr ""
+
+#: includes/i18n.php:59
+msgid "Next Label"
+msgstr ""
+
+#: includes/i18n.php:119
+msgid "Next Link"
+msgstr ""
+
+#: includes/i18n.php:65
+msgid "Next Post"
+msgstr ""
+
+#: includes/i18n.php:118
+msgid "Next/Prev Link"
+msgstr ""
+
+#: includes/i18n.php:125
+msgid "No Posts Found"
+msgstr ""
+
+#: includes/i18n.php:127
+msgid "No Products Found"
+msgstr ""
+
+#: includes/class-tbp-templates.php:76
+msgid "No templates found in Trash."
+msgstr ""
+
+#: includes/class-tbp-templates.php:75
+msgid "No templates found."
+msgstr ""
+
+#: admin/class-tbp-admin.php:146
+msgid "No Theme Activated"
+msgstr ""
+
+#: includes/class-tbp-themes.php:60
+msgid "No themes found in Trash."
+msgstr ""
+
+#: includes/class-tbp-themes.php:59
+msgid "No themes found."
+msgstr ""
+
+#: admin/partials/tbp-admin-theme-page.php:102
+msgid "No themes found. Try a different search."
+msgstr ""
+
+#: includes/i18n.php:156
+#, php-format
+msgid ""
+"Note that after selecting the ACF Repeater field, you have to edit the "
+"template and choose what fields are displayed using <a href=\"%s\">Dynamic "
+"Content</a> feature."
+msgstr ""
+
+#: includes/dynamic-content/CustomField.php:62
+msgid "Number"
+msgstr ""
+
+#: includes/i18n.php:147
+msgid "Number of Entries"
+msgstr ""
+
+#: includes/dynamic-content/PTBFile.php:64
+#: includes/dynamic-content/PTBAcc.php:60
+#: includes/dynamic-content/PTBVideo.php:67
+#: includes/dynamic-content/PTBAudio.php:65
+#: includes/dynamic-content/PTBGalleryAsText.php:66
+msgid "Number of item in repeatable fields to show."
+msgstr ""
+
+#: includes/i18n.php:148
+msgid "Number of Products"
+msgstr ""
+
+#: includes/i18n.php:117
+msgid "Numbers"
+msgstr ""
+
+#: templates/template-comments.php:66
+msgid "Old Comments First"
+msgstr ""
+
+#: includes/i18n.php:39
+msgid "Older Comments First"
+msgstr ""
+
+#: includes/i18n.php:122
+msgid "Older Entries"
+msgstr ""
+
+#: includes/i18n.php:74
+msgid "On hover, show the first product gallery image."
+msgstr ""
+
+#: includes/i18n.php:201
+msgid "Only On Sale Products"
+msgstr ""
+
+#: includes/i18n.php:168
+msgid "Only Top Level Categories"
+msgstr ""
+
+#: includes/i18n.php:202
+msgid "Only Top Rated Products"
+msgstr ""
+
+#: includes/i18n.php:192 includes/dynamic-content/Option.php:17
+#: includes/dynamic-query/acf.php:38
+msgid "Option"
+msgstr ""
+
+#: includes/dynamic-content/Option.php:28
+msgid "Option Name"
+msgstr ""
+
+#: includes/class-tbp-templates.php:314
+msgid "Options"
+msgstr ""
+
+#: includes/i18n.php:145
+msgid "Ordered List"
+msgstr ""
+
+#: includes/i18n.php:11
+msgid "Out of Stock"
+msgstr ""
+
+#: includes/i18n.php:12
+msgid "Out of Stock Text"
+msgstr ""
+
+#: modules/module-featured-image.php:194 modules/module-featured-image.php:199
+msgid "Overlay"
+msgstr ""
+
+#: modules/module-featured-image.php:200
+msgid "Overlay Font Color"
+msgstr ""
+
+#: includes/class-tbp-templates.php:105
+msgid "Page"
+msgstr ""
+
+#. %s is the page number.
+#: modules/module-breadcrumbs.php:332
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: includes/class-tbp-templates.php:119
+msgid "Pages"
+msgstr ""
+
+#: includes/i18n.php:146
+msgid "Paragraphs"
+msgstr ""
+
+#: includes/class-tbp-templates.php:74
+msgid "Parent Templates:"
+msgstr ""
+
+#: includes/class-tbp-themes.php:58
+msgid "Parent Themes:"
+msgstr ""
+
+#: includes/dynamic-query/tep.php:27
+msgid "Past Events"
+msgstr ""
+
+#: includes/dynamic-query/ptbSubmission.php:34
+msgid "Pending Approval"
+msgstr ""
+
+#: includes/i18n.php:49 includes/i18n.php:198
+msgid "Plain Text"
+msgstr ""
+
+#: includes/i18n.php:116
+msgid "Please select a WooCommerce Hook."
+msgstr ""
+
+#: includes/i18n.php:171 includes/class-tbp-templates.php:796
+msgid "Post"
+msgstr ""
+
+#: includes/dynamic-content/PostTerms.php:13
+#: includes/dynamic-content/PostTermsClass.php:13
+msgid "Post (Taxonomy) Terms"
+msgstr ""
+
+#: includes/class-tbp-templates.php:130
+msgid "Post Archives"
+msgstr ""
+
+#: includes/dynamic-content/PostAuthorAvatar.php:17
+msgid "Post Author Avatar"
+msgstr ""
+
+#: includes/dynamic-content/PostAuthorBio.php:17
+msgid "Post Author Biography"
+msgstr ""
+
+#: includes/dynamic-content/PostAuthorEmail.php:17
+msgid "Post Author Email"
+msgstr ""
+
+#: includes/dynamic-content/PostAuthorClass.php:17
+msgid "Post Author ID"
+msgstr ""
+
+#: includes/dynamic-content/PostAuthorMeta.php:14
+msgid "Post Author Meta"
+msgstr ""
+
+#: includes/dynamic-content/PostAuthorName.php:13
+msgid "Post Author Name"
+msgstr ""
+
+#: includes/dynamic-content/PostAuthorURL.php:17
+msgid "Post Author URL"
+msgstr ""
+
+#: includes/i18n.php:126
+msgid "Post Container"
+msgstr ""
+
+#: modules/module-post-content.php:14
+msgid "Post Content"
+msgstr ""
+
+#: includes/i18n.php:165
+msgid "Post Count"
+msgstr ""
+
+#: includes/dynamic-content/PostClass.php:17
+msgid "Post CSS Class"
+msgstr ""
+
+#: includes/dynamic-content/PostExcerpt.php:19
+msgid "Post Excerpt"
+msgstr ""
+
+#: includes/dynamic-content/PostFeaturedImage.php:17
+msgid "Post Featured Image"
+msgstr ""
+
+#: includes/dynamic-content/PostImageAttachments.php:17
+msgid "Post Image Attachments"
+msgstr ""
+
+#: modules/module-post-meta.php:15
+msgid "Post Meta"
+msgstr ""
+
+#: modules/module-post-navigation.php:13
+msgid "Post Navigation"
+msgstr ""
+
+#: includes/dynamic-content/PostPermalink.php:17
+msgid "Post Permalink"
+msgstr ""
+
+#: includes/dynamic-content/PostDate.php:13
+msgid "Post Published Date"
+msgstr ""
+
+#: modules/module-post-title.php:13 includes/dynamic-content/PostTitle.php:13
+msgid "Post Title"
+msgstr ""
+
+#: includes/dynamic-query/ptbSubmission.php:25
+msgid "Post Type"
+msgstr ""
+
+#: includes/dynamic-query/sameauthor.php:29
+#: includes/dynamic-query/currentuser.php:18
+msgid "Post Types"
+msgstr ""
+
+#: includes/class-tbp-templates.php:128
+msgid "Posts"
+msgstr ""
+
+#: includes/dynamic-query/sameauthor.php:11
+msgid "Posts by the current author"
+msgstr ""
+
+#: includes/dynamic-query/currentuser.php:10
+msgid "Posts by the current logged-in user"
+msgstr ""
+
+#: includes/i18n.php:123
+msgid "Posts Per Page"
+msgstr ""
+
+#: includes/class-tbp.php:91
+msgid "Pre-designed"
+msgstr ""
+
+#: includes/dynamic-content/PostAuthorEmail.php:34
+msgid "Prepend \"mailto:\""
+msgstr ""
+
+#: includes/i18n.php:121
+msgid "Prev Link"
+msgstr ""
+
+#: includes/class-tbp-themes.php:338
+msgid "Preview"
+msgstr ""
+
+#: includes/i18n.php:60
+msgid "Previous Arrow"
+msgstr ""
+
+#: includes/i18n.php:58
+msgid "Previous Label"
+msgstr ""
+
+#: includes/i18n.php:64
+msgid "Previous Post"
+msgstr ""
+
+#: includes/class-tbp-templates.php:185 includes/class-tbp-templates.php:797
+msgid "Priority"
+msgstr ""
+
+#: admin/class-tbp-admin.php:102
+msgid "Pro Templates"
+msgstr ""
+
+#: admin/class-tbp-admin.php:101
+msgid "Pro Themes"
+msgstr ""
+
+#: includes/dynamic-content/ProductCartUrl.php:21
+msgid "Product Add To Cart URL"
+msgstr ""
+
+#: admin/class-tbp-admin.php:217 includes/class-tbp-templates.php:109
+msgid "Product Archive"
+msgstr ""
+
+#: includes/class-tbp-templates.php:131
+msgid "Product Archives"
+msgstr ""
+
+#: includes/dynamic-content/ProductAttributes.php:21
+msgid "Product Attributes"
+msgstr ""
+
+#: includes/class-tbp-templates.php:143
+msgid "Product categories"
+msgstr ""
+
+#: includes/dynamic-content/ProductCatImage.php:21
+msgid "Product Category Image"
+msgstr ""
+
+#: includes/i18n.php:150
+msgid "Product Container"
+msgstr ""
+
+#: includes/i18n.php:133 modules/module-product-description.php:17
+#: includes/dynamic-content/ProductDescription.php:17
+msgid "Product Description"
+msgstr ""
+
+#: includes/dynamic-content/ProductGallery.php:21
+msgid "Product Gallery"
+msgstr ""
+
+#: includes/i18n.php:153
+msgid "Product ID"
+msgstr ""
+
+#: includes/i18n.php:72 modules/module-product-image.php:17
+#: includes/dynamic-content/ProductImage.php:21
+msgid "Product Image"
+msgstr ""
+
+#: includes/i18n.php:73
+msgid "Product Image Hover"
+msgstr ""
+
+#: includes/i18n.php:128
+msgid "Product Layout"
+msgstr ""
+
+#: includes/i18n.php:132 modules/module-product-meta.php:17
+msgid "Product Meta"
+msgstr ""
+
+#: modules/module-product-price.php:21
+#: includes/dynamic-content/ProductPrice.php:21
+msgid "Product Price"
+msgstr ""
+
+#: modules/module-product-rating.php:17
+#: includes/dynamic-content/ProductRating.php:17
+msgid "Product Rating"
+msgstr ""
+
+#: modules/module-product-reviews.php:24
+msgid "Product Review Tabs"
+msgstr ""
+
+#: includes/dynamic-content/ProductSalePrice.php:17
+msgid "Product Sale Price"
+msgstr ""
+
+#: admin/class-tbp-admin.php:216 includes/class-tbp-templates.php:108
+msgid "Product Single"
+msgstr ""
+
+#: includes/dynamic-content/ProductSKU.php:17
+msgid "Product SKU"
+msgstr ""
+
+#: includes/i18n.php:130
+msgid "Product Sort"
+msgstr ""
+
+#: includes/dynamic-content/ProductStock.php:17
+msgid "Product Stock"
+msgstr ""
+
+#: modules/module-product-stock-status.php:18
+msgid "Product Stock Status"
+msgstr ""
+
+#: includes/class-tbp-templates.php:144
+msgid "Product tags"
+msgstr ""
+
+#: includes/i18n.php:95 modules/module-product-taxonomy.php:21
+msgid "Product Taxonomy"
+msgstr ""
+
+#: includes/i18n.php:131 modules/module-product-title.php:17
+#: includes/dynamic-content/ProductTitle.php:17
+msgid "Product Title"
+msgstr ""
+
+#: includes/class-tbp-templates.php:129
+msgid "Products"
+msgstr ""
+
+#: includes/i18n.php:124
+msgid "Products Per Page"
+msgstr ""
+
+#: includes/i18n.php:15
+msgid "Profile Name"
+msgstr ""
+
+#: includes/i18n.php:14
+msgid "Profile Picture"
+msgstr ""
+
+#: includes/i18n.php:27
+msgid "Progress Bar"
+msgstr ""
+
+#: includes/dynamic-content/PTBAccordion.php:21
+msgid "PTB (Accordion Display)"
+msgstr ""
+
+#: includes/dynamic-content/PTBAcc.php:17
+msgid "PTB (Accordion Item)"
+msgstr ""
+
+#: includes/dynamic-content/PTBAudioPlaylist.php:21
+msgid "PTB (Audio Playlist)"
+msgstr ""
+
+#: includes/dynamic-content/PTBAudio.php:21
+msgid "PTB (Audio)"
+msgstr ""
+
+#: includes/dynamic-content/PTBCheckbox.php:17
+#: includes/dynamic-content/PTBCheckboxClass.php:21
+msgid "PTB (Checkbox)"
+msgstr "Pagar"
+
+#: includes/dynamic-content/PTBDateAsText.php:19
+#: includes/dynamic-content/PTBDate.php:22
+msgid "PTB (Date)"
+msgstr ""
+
+#: includes/dynamic-content/PTBEmail.php:21
+msgid "PTB (Email)"
+msgstr ""
+
+#: includes/dynamic-content/PTBFile.php:21
+msgid "PTB (File)"
+msgstr ""
+
+#: includes/dynamic-content/PTBGalleryAsText.php:21
+msgid "PTB (Gallery & Slider)"
+msgstr ""
+
+#: includes/dynamic-content/PTBGallery.php:21
+msgid "PTB (Gallery)"
+msgstr ""
+
+#: includes/dynamic-content/PTBIconAsText.php:21
+msgid "PTB (Icon)"
+msgstr ""
+
+#: includes/dynamic-content/PTBIcon.php:21
+msgid "PTB (Icons)"
+msgstr ""
+
+#: includes/dynamic-content/PTBImage.php:21
+msgid "PTB (Image)"
+msgstr ""
+
+#: includes/dynamic-content/PTBLinkButton.php:23
+msgid "PTB (Link Button)"
+msgstr ""
+
+#: includes/dynamic-content/PTBMap.php:21
+msgid "PTB (Map)"
+msgstr ""
+
+#: includes/dynamic-content/PTBNumber.php:21
+msgid "PTB (Number)"
+msgstr ""
+
+#: includes/dynamic-content/PTBProgressBar.php:21
+msgid "PTB (Progress Bar)"
+msgstr ""
+
+#: includes/dynamic-content/PTBRadioButtonClass.php:21
+#: includes/dynamic-content/PTBRadioButton.php:17
+msgid "PTB (Radio Button)"
+msgstr ""
+
+#: includes/dynamic-content/PTBRating.php:21
+#: includes/dynamic-content/PTBRatingAsText.php:21
+msgid "PTB (Rating)"
+msgstr ""
+
+#: includes/dynamic-content/PTBRelations.php:21
+msgid "PTB (Relations)"
+msgstr ""
+
+#: includes/dynamic-content/PTBRepeatableText.php:21
+msgid "PTB (Repeatable Text)"
+msgstr ""
+
+#: includes/dynamic-content/PTBSelect.php:17
+#: includes/dynamic-content/PTBSelectClass.php:21
+msgid "PTB (Select)"
+msgstr ""
+
+#: includes/dynamic-content/PTBTelephone.php:21
+msgid "PTB (Telephone)"
+msgstr ""
+
+#: includes/dynamic-content/PTBText.php:21
+msgid "PTB (Text)"
+msgstr ""
+
+#: includes/dynamic-content/PTBTextarea.php:21
+msgid "PTB (Textarea)"
+msgstr ""
+
+#: includes/dynamic-content/PTBVideoPlaylist.php:23
+msgid "PTB (Video Playlist)"
+msgstr ""
+
+#: includes/dynamic-content/PTBVideo.php:23
+msgid "PTB (Video)"
+msgstr ""
+
+#: includes/dynamic-content/PTBIconAsIcon.php:23
+msgid "PTB Custom Fields"
+msgstr ""
+
+#: includes/dynamic-query/ptbRelation.php:18
+msgid "PTB Relations"
+msgstr ""
+
+#: includes/dynamic-query/ptbRelation.php:26
+msgid "PTB Relations Field"
+msgstr ""
+
+#: modules/module-ptb-repeater.php:24 templates/template-ptb-repeater.php:102
+msgid "PTB Repeater"
+msgstr ""
+
+#: includes/dynamic-query/ptbSearch.php:18
+msgid "PTB Search"
+msgstr ""
+
+#: includes/dynamic-query/ptbSearch.php:36
+msgid "PTB Search Form"
+msgstr ""
+
+#: includes/dynamic-query/ptbSubmission.php:17
+msgid "PTB Submissions by current user"
+msgstr ""
+
+#: admin/partials/lightbox-tpl.php:29
+msgid "Publish"
+msgstr ""
+
+#: includes/class-tbp-templates.php:841
+msgid "Published"
+msgstr ""
+
+#: includes/dynamic-content/RandomNumber.php:16
+msgid "Random Number"
+msgstr ""
+
+#: templates/wc/rating.php:23
+msgid "Rated 0 out of 5"
+msgstr ""
+
+#: templates/template-post-content.php:18 templates/partials/content.php:15
+msgid "Read More"
+msgstr ""
+
+#: modules/module-readtime.php:19
+msgid "Reading Time"
+msgstr ""
+
+#: modules/module-related-posts.php:17
+msgid "Related Posts"
+msgstr ""
+
+#: includes/i18n.php:149 modules/module-related-products.php:17
+msgid "Related Products"
+msgstr ""
+
+#: templates/wc/loop/loop-product-cart.php:26
+msgid "Remove Cart Item"
+msgstr ""
+
+#: includes/i18n.php:44
+msgid "Reply Link"
+msgstr ""
+
+#: includes/i18n.php:92
+msgid "Review Form Button"
+msgstr ""
+
+#: includes/i18n.php:90
+msgid "Review Forms"
+msgstr ""
+
+#: includes/i18n.php:91
+msgid "Review Inputs"
+msgstr ""
+
+#: includes/i18n.php:93
+msgid "Review Stars"
+msgstr ""
+
+#: includes/i18n.php:89
+msgid "Reviews"
+msgstr ""
+
+#: includes/i18n.php:142
+msgid "Role"
+msgstr ""
+
+#: includes/i18n.php:69
+msgid "Sale Badge"
+msgstr ""
+
+#: includes/i18n.php:85
+msgid "Sale Percentage Label (Variable Products)"
+msgstr ""
+
+#: includes/i18n.php:82
+msgid "Sale Price"
+msgstr ""
+
+#: includes/i18n.php:129
+msgid "Sales"
+msgstr ""
+
+#: admin/partials/lightbox-tpl.php:22 admin/partials/lightbox-tpl.php:24
+#: admin/partials/lightbox-tpl.php:27
+msgid "Save"
+msgstr ""
+
+#: admin/partials/lightbox-tpl.php:27
+msgid "Save Draft"
+msgstr ""
+
+#: includes/i18n.php:164
+msgid "Search By Term Name"
+msgstr ""
+
+#: modules/module-search-form.php:13
+msgid "Search Form"
+msgstr ""
+
+#: includes/i18n.php:98
+msgid "Search form"
+msgstr ""
+
+#: includes/i18n.php:102
+msgid "Search Icon"
+msgstr ""
+
+#: includes/i18n.php:101
+msgid "Search in Post Type"
+msgstr ""
+
+#: includes/i18n.php:103
+msgid "Search Input"
+msgstr ""
+
+#: includes/class-tbp-templates.php:125
+msgid "Search Results"
+msgstr ""
+
+#: templates/template-archive-title.php:41
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#. %s is the search query.
+#: modules/module-breadcrumbs.php:330
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: includes/i18n.php:99
+msgid "Search Style"
+msgstr ""
+
+#: includes/class-tbp-templates.php:73
+msgid "Search Templates"
+msgstr ""
+
+#: includes/class-tbp-themes.php:57
+msgid "Search Themes"
+msgstr ""
+
+#: includes/class-tbp-templates.php:782 admin/partials/lightbox-tpl.php:38
+msgid "Select"
+msgstr ""
+
+#: includes/class-tbp-templates.php:801
+msgid ""
+"Select the theme which you want this template to associated. Templates are "
+"used base on the activated theme."
+msgstr ""
+
+#: includes/i18n.php:19
+msgid "Separator Character"
+msgstr ""
+
+#: includes/i18n.php:186
+msgid "Set a default value to show when the dynamic item is empty."
+msgstr ""
+
+#: includes/dynamic-content/PTBNumber.php:76
+#: includes/dynamic-content/CustomField.php:97
+msgid "Sets the number of decimal digits."
+msgstr ""
+
+#: includes/dynamic-content/PTBNumber.php:82
+#: includes/dynamic-content/CustomField.php:103
+msgid "Sets the separator for the decimal point."
+msgstr ""
+
+#: includes/i18n.php:113
+msgctxt "Settings section in Archive Products module"
+msgid "Add to Cart"
+msgstr ""
+
+#: includes/class-tbp-templates.php:127
+msgid "Shop Page"
+msgstr ""
+
+#: includes/i18n.php:67
+msgid "Short Description"
+msgstr ""
+
+#: includes/dynamic-content/Shortcode.php:17
+#: includes/dynamic-content/Shortcode.php:27
+msgid "Shortcode"
+msgstr ""
+
+#: includes/dynamic-query/ptbSubmission.php:31
+msgid "Show"
+msgstr ""
+
+#: includes/i18n.php:48
+msgid "Show caption overlay on hover only"
+msgstr ""
+
+#: includes/i18n.php:34
+msgid "Show Cart"
+msgstr ""
+
+#: includes/i18n.php:87
+msgid "Show Empty Rating"
+msgstr ""
+
+#: includes/i18n.php:184
+msgid "Show Fallback Value"
+msgstr ""
+
+#: admin/partials/tbp-admin-theme-page.php:110
+msgid "Show next theme"
+msgstr ""
+
+#: includes/i18n.php:63
+msgid "Show posts in the same category or taxonomy term."
+msgstr ""
+
+#: admin/partials/tbp-admin-theme-page.php:109
+msgid "Show previous theme"
+msgstr ""
+
+#: includes/i18n.php:84
+msgid "Show Sale Percentage"
+msgstr ""
+
+#: admin/class-tbp-admin.php:215 includes/class-tbp-templates.php:103
+msgid "Single"
+msgstr ""
+
+#: includes/class-tbp-templates.php:118 includes/class-tbp-templates.php:133
+msgid "Singular"
+msgstr ""
+
+#: includes/dynamic-content/SiteDescription.php:12
+msgid "Site Description"
+msgstr ""
+
+#: includes/dynamic-content/SiteIcon.php:17
+msgid "Site Icon"
+msgstr ""
+
+#: modules/module-site-logo.php:13
+msgid "Site Logo"
+msgstr ""
+
+#: modules/module-site-tagline.php:13
+msgid "Site Tagline"
+msgstr ""
+
+#: includes/dynamic-content/SiteTitle.php:13
+msgid "Site Title"
+msgstr ""
+
+#: includes/i18n.php:111 includes/dynamic-content/SiteURL.php:17
+msgid "Site URL"
+msgstr ""
+
+#: includes/i18n.php:80
+msgid "SKU"
+msgstr ""
+
+#: includes/i18n.php:81
+msgid "SKU Label"
+msgstr ""
+
+#: includes/i18n.php:115
+msgid ""
+"Some WooCommerce extensions use hooks to display their content. Select a "
+"hook which you want to include in the template."
+msgstr ""
+
+#: includes/i18n.php:41
+msgid "Sort Option"
+msgstr ""
+
+#: includes/i18n.php:136
+msgid "Spam"
+msgstr ""
+
+#: includes/dynamic-query/tep.php:36
+msgid "Start Date"
+msgstr ""
+
+#: includes/dynamic-content/ACFMap.php:59
+msgid "State"
+msgstr ""
+
+#: modules/module-stats.php:12
+msgid "Statistics"
+msgstr ""
+
+#: includes/i18n.php:134 includes/class-tbp-templates.php:180
+msgid "Status"
+msgstr ""
+
+#: includes/i18n.php:33
+msgid "Sub Total"
+msgstr ""
+
+#: includes/i18n.php:159
+msgid "Sub-terms"
+msgstr ""
+
+#: includes/i18n.php:160
+msgid "Subcategories Limit"
+msgstr ""
+
+#: includes/i18n.php:104
+msgid "Suggest Keywords"
+msgstr ""
+
+#: includes/i18n.php:94
+msgid "Tab Active Title"
+msgstr ""
+
+#: includes/i18n.php:78
+msgid "Tag Label"
+msgstr ""
+
+#: includes/i18n.php:79
+msgid "Tagline Link"
+msgstr ""
+
+#: includes/class-tbp-templates.php:142
+msgid "Tags"
+msgstr ""
+
+#: modules/module-taxonomy.php:17
+msgid "Taxonomy"
+msgstr ""
+
+#: includes/i18n.php:189 includes/dynamic-query/acf.php:35
+msgid "Taxonomy terms"
+msgstr ""
+
+#: includes/i18n.php:176
+msgid "Telephone"
+msgstr ""
+
+#: includes/class-tbp-templates.php:64
+msgid "Template"
+msgstr ""
+
+#: includes/class-tbp-templates.php:67
+msgctxt "template"
+msgid "Add New"
+msgstr ""
+
+#: includes/class-tbp-templates.php:77
+msgid "Template Priority"
+msgstr ""
+
+#: admin/class-tbp-admin.php:161 includes/class-tbp-templates.php:63
+msgid "Templates"
+msgstr ""
+
+#: includes/dynamic-content/tbpTermCover.php:17
+msgid "Term Cover Image"
+msgstr ""
+
+#: includes/i18n.php:166
+msgid "Term Limit"
+msgstr ""
+
+#: includes/i18n.php:57
+msgid "Terms Link"
+msgstr ""
+
+#: includes/dynamic-content/CustomField.php:61
+msgid "Text"
+msgstr ""
+
+#: includes/i18n.php:106
+msgid "Text Before Suggest List"
+msgstr ""
+
+#: includes/i18n.php:177
+msgid "Text Message"
+msgstr ""
+
+#: includes/dynamic-content/CustomField.php:26
+msgid ""
+"The data in this custom field is probably serialized and thus cannot be "
+"displayed directly."
+msgstr ""
+
+#: includes/i18n.php:161
+msgid "The maximum number of subcategories to show. Leave empty to show all."
+msgstr ""
+
+#: includes/i18n.php:167
+msgid "The maximum number of terms to show. Leave empty to show all."
+msgstr ""
+
+#: includes/i18n.php:196
+msgid ""
+"The template for this module can only be edited on the frontend. Please "
+"switch to frontend Builder to edit it."
+msgstr ""
+
+#: includes/class-tbp-themes.php:48 includes/class-tbp-templates.php:181
+msgid "Theme"
+msgstr ""
+
+#: includes/class-tbp-themes.php:51
+msgctxt "theme"
+msgid "Add New"
+msgstr ""
+
+#: admin/class-tbp-import-export.php:71
+#, php-format
+msgid "Theme \"%s\" doesn`t exist"
+msgstr ""
+
+#: includes/class-tbp-themes.php:350
+msgid ""
+"Theme %post% imported successfully. Would you like to activate the theme?"
+msgstr ""
+
+#: admin/partials/tbp-admin-theme-page.php:62
+msgid "Theme Details"
+msgstr ""
+
+#: includes/class-tbp-templates.php:442
+msgid "Theme doesn`t exist"
+msgstr ""
+
+#: admin/class-tbp-import-export.php:67 includes/class-tbp-templates.php:438
+msgid "Theme isn`t selected"
+msgstr ""
+
+#: includes/class-tbp-themes.php:330
+msgid "Theme Name"
+msgstr ""
+
+#: includes/class-tbp-themes.php:47 admin/partials/tbp-admin-theme-page.php:30
+msgid "Themes"
+msgstr ""
+
+#: admin/class-tbp-admin.php:162
+msgid "Themes "
+msgstr ""
+
+#. Author of the plugin
+msgid "Themify"
+msgstr ""
+
+#. Name of the plugin
+msgid "Themify Builder Pro"
+msgstr ""
+
+#: includes/dynamic-content/EventPostDate.php:17
+msgid "Themify Event Post - Event Date"
+msgstr ""
+
+#: includes/dynamic-query/tep.php:15
+msgid "Themify Event Posts"
+msgstr ""
+
+#: includes/i18n.php:173
+msgid "Themify Post Type Builder"
+msgstr ""
+
+#: includes/i18n.php:28
+msgid "This only shows on single post pages."
+msgstr ""
+
+#: includes/dynamic-content/PTBNumber.php:85
+#: includes/dynamic-content/CustomField.php:106
+msgid "Thousands Separator"
+msgstr ""
+
+#: includes/i18n.php:76
+msgid "Thumb Image Left"
+msgstr ""
+
+#: includes/class-tbp-themes.php:331 includes/class-tbp-themes.php:355
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/i18n.php:75
+msgid "Thumbnail Layout"
+msgstr ""
+
+#: includes/class-tbp-templates.php:178
+msgid "Title"
+msgstr ""
+
+#: includes/dynamic-content/PTBNumber.php:64
+msgid "To"
+msgstr ""
+
+#: includes/dynamic-content/FileContent.php:42
+#, php-format
+msgid ""
+"To display content from text file, enter the path. Path is started from: %s"
+msgstr ""
+
+#: includes/i18n.php:137 includes/class-tbp-templates.php:852
+msgid "Trash"
+msgstr ""
+
+#: includes/class-tbp-templates.php:179 includes/class-tbp-templates.php:792
+msgid "Type"
+msgstr ""
+
+#: includes/i18n.php:144
+msgid "Unordered List"
+msgstr ""
+
+#: includes/i18n.php:86
+msgid "up to "
+msgstr ""
+
+#: includes/dynamic-query/tep.php:26
+msgid "Upcoming Events"
+msgstr ""
+
+#: admin/partials/tbp-admin-theme-page.php:85
+#: admin/partials/tbp-admin-theme-page.php:131
+msgid "Update Available"
+msgstr ""
+
+#: admin/class-tbp-admin.php:132
+msgid "Upload failed (%msg%): %post%"
+msgstr ""
+
+#: admin/class-tbp-admin.php:128
+msgid "Uploading image (%from%/%to%):"
+msgstr ""
+
+#: modules/module-upsell-products.php:17
+msgid "Upsell Products"
+msgstr ""
+
+#: includes/i18n.php:175
+msgid "URI Scheme"
+msgstr ""
+
+#: includes/i18n.php:141
+msgid "Users"
+msgstr ""
+
+#: includes/dynamic-content/PTBProgressBar.php:82
+msgid "Value"
+msgstr ""
+
+#: includes/i18n.php:4
+msgid "Variable Product"
+msgstr ""
+
+#: includes/i18n.php:5
+msgid "Variable Product Add to Cart"
+msgstr ""
+
+#: includes/i18n.php:6
+msgid "Variable Select"
+msgstr ""
+
+#: admin/partials/tbp-admin-theme-page.php:126
+#, php-format
+msgid "Version: %s"
+msgstr ""
+
+#: includes/dynamic-content/PTBVideo.php:58
+msgid "Video File URL"
+msgstr ""
+
+#: includes/class-tbp-templates.php:71 includes/class-tbp-templates.php:913
+msgid "View Template"
+msgstr ""
+
+#: includes/class-tbp-themes.php:55
+msgid "View Theme"
+msgstr ""
+
+#: includes/dynamic-content/PTBRatingAsText.php:58
+msgid "Vote Counts"
+msgstr ""
+
+#: includes/dynamic-content/PTBRatingAsText.php:57
+msgid "Vote Result"
+msgstr ""
+
+#: includes/class-tbp-themes.php:351
+msgid ""
+"Warning: this will import the demo posts, pages, menus, etc. as per our demo."
+" It may take a few minutes. You can erase demo on Pro Themes > Theme > Theme "
+"Details."
+msgstr ""
+
+#: includes/dynamic-content/PostAuthorURL.php:33
+msgid "Website"
+msgstr ""
+
+#. Weekly archive title. %s is the week date format.
+#: modules/module-breadcrumbs.php:338
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: modules/module-breadcrumbs.php:852
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: includes/i18n.php:35
+msgid "When an item is added, show cart for n second(s)"
+msgstr ""
+
+#: includes/i18n.php:180
+msgid "When Empty:"
+msgstr ""
+
+#: includes/i18n.php:140
+msgid "Whether to hide terms not assigned to any posts."
+msgstr ""
+
+#: includes/i18n.php:21
+msgid ""
+"Whether to link to the main site on the network (WordPress multisite only)."
+msgstr ""
+
+#: includes/i18n.php:172
+msgid "WooCommerce"
+msgstr ""
+
+#: templates/wc/shopdock.php:18
+msgid ""
+"WooCommerce Ajax add to cart option needs to be enabled to use this Ajax "
+"cart."
+msgstr ""
+
+#: modules/module-woocommerce-breadcrumb.php:17
+msgid "WooCommerce Breadcrumb"
+msgstr ""
+
+#: modules/module-woocommerce-hook.php:17
+msgid "WooCommerce Hook"
+msgstr ""
+
+#: modules/module-wc-notices.php:16
+msgid "WooCommerce Notices"
+msgstr ""
+
+#: includes/class-tbp-templates.php:326
+msgid "WooCommerce plugin is required."
+msgstr ""
+
+#: templates/template-woocommerce-hook.php:44
+msgid "WooCoommerce Hook: "
+msgstr ""
+
+#: includes/i18n.php:37
+msgid "WordPress Default"
+msgstr ""
+
+#: templates/wc/loop/loop-product-cart.php:58
+msgid "x %d"
+msgstr ""
+
+#: includes/i18n.php:53
+msgid "Year"
+msgstr ""
+
+#: includes/i18n.php:56
+msgid "Year Font"
+msgstr ""
+
+#: modules/module-breadcrumbs.php:822 modules/module-breadcrumbs.php:851
+#: modules/module-breadcrumbs.php:878 modules/module-breadcrumbs.php:905
+#: modules/module-breadcrumbs.php:1221
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: includes/dynamic-content/Option.php:31
+#, php-format
+msgid ""
+"You can see a list of options in <a href=\"%s\" target=\"_blank\">Options "
+"admin page</a>."
+msgstr ""
+
+#: includes/class-tbp-templates.php:459
+msgid "You don`t have permission to edit this post"
+msgstr ""
+
+#: includes/class-tbp-templates.php:471
+msgid "You don`t have permission to publish a post"
+msgstr ""
+
+#: admin/class-tbp-import-export.php:94
+msgid "You don`t have permissions to upload file"
+msgstr ""
+
+#: includes/class-tbp-templates.php:430
+msgid "You don`t have permssion to add/edit a template"
+msgstr ""
+
+#: includes/class-tbp-themes.php:212
+msgid "You don`t have permssion to add/edit a theme"
+msgstr ""
+
+#: includes/i18n.php:195
+msgid "You have to select a repeatable field."
+msgstr ""
+
+#: includes/i18n.php:112
+msgid "You may also like..."
+msgstr ""
+
+#: includes/i18n.php:107
+msgid "You might be interested in: "
+msgstr ""
+
+#: admin/class-tbp-admin.php:137
+msgid "Zip file doesn&apos;t contain files"
+msgstr ""

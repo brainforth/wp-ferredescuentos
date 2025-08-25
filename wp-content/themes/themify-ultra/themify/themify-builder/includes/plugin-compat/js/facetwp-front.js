@@ -1,0 +1,1 @@
+(()=>{"use strict";FWP.hooks.addAction("facetwp/loaded",(()=>{if(!FWP.loaded)return;let e=document.querySelectorAll(".themify_builder_content .module.facetwp-template");for(let t=0;t<e.length;t++)Themify.lazyScroll(Themify.convert(e[t].querySelectorAll("[data-lazy]")).reverse(),!0)}))})();

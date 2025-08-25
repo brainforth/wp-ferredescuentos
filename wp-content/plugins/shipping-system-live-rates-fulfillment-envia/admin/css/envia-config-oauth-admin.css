@@ -1,0 +1,79 @@
+.oauth-btn {
+    box-shadow: 1px 1px 4px 1px grey;
+    width: 250px;
+    height: 35px;
+    border-radius: 3px;
+    cursor: pointer;
+    padding: 5px;
+    border:  0;
+    color: #fff;
+    background-color: #00989e;
+    border-color: #00989e;
+    font-size: 14px;
+}
+.oauth-btn:hover {
+    box-shadow: grey 1px 1px 2px 0px;
+}
+
+/*.refresh-oauth{
+    background: #2271b1;
+}
+.refresh-oauth:hover{
+    background: #2271b1;
+    box-shadow: 1px 1px 2px 0px grey;
+}
+.without-oauth{
+    background: #f74f03;
+}
+.withoaut-oauth:hover{
+    background: #fa550a;
+    box-shadow: 1px 1px 2px 0px grey;
+}*/
+.p-img{
+    font-weight: 600;
+    /* display: flex; */
+    /* align-items: center; */
+    height: 21px;
+    padding: 0px 4px 0px 5px; 
+}
+.envia-connection p {
+    display: flex;
+    padding-right: 24px;
+    font-weight: 600;
+    align-items: center;
+    width:400px;
+    font-size: 14px;
+}
+.connection-block {
+    display: flex;
+    color: #1d2327;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 5px 0px 10px 0px !important;
+}
+.connection-block a {
+    text-decoration: none;
+    margin-left: 5px;
+
+}
+#status-label {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#status-icon {
+    width: 12px;
+    height: 12px;
+    background: radial-gradient(#ffffff99, #3434342e);
+    border-radius: 12px;
+    margin-right: 10px;
+}
+.connected{
+    background-color: green !important;
+}
+.disconnected{
+    background-color: red !important;
+}
+#status-label label{
+
+}

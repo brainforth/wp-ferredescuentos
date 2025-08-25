@@ -1,0 +1,1 @@
+(c=>{"use strict";document.body.tfOn("click",(i=>{const o=i.target,s=o?.closest(".module-social-share");if(s){i.preventDefault();const e=s.dataset.url||window.location.href;c.sharer("A"===o.tagName?o.dataset.type:o.parentNode.dataset.type,e,o.dataset.title)}}))})(Themify);
