@@ -19,6 +19,7 @@
 /tmp/
 .tmp_*
 
+
 # PROJECT FOLDERS
 #################
 /log/
@@ -40,13 +41,12 @@
 /wp-content/edoscta/xmls/*
 /wp-content/wflogs/*
 /wp-content/wpvividbackups/*
-wp-content/ai1wm-backups/*
+/wp-content/ai1wm-backups/*
 /sitemap.xml
 /sitemap_index.xml
 /sitemap.xml.gz
-
+/.dh-diag/
 /wp-content/plugins/query-monitor/
-
 /wp-content/plugins/wp-all-import*
 /wp-content/plugins/wp-all-export*
 /wp-content/plugins/wordpress-importer/
@@ -64,6 +64,7 @@ wp-content/ai1wm-backups/*
 /wp-content/wp-rocket-config/
 /wp-content/plugins/nginx-helper
 /wp-content/plugins/wp-optimize
+/.litespeed_flag
 
 # COMMON FILES
 ##############
